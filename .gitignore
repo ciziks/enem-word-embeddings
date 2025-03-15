@@ -1,0 +1,53 @@
+# Arquivos e diretórios do Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Logs e arquivos temporários
+logs/
+*.log
+*.out
+*.err
+.DS_Store
+*.swp
+*.swo
+
+# Arquivos de ambiente virtual
+venv/
+.env
+*.env
+.envrc
+
+# Configuração do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Modelos treinados e pesos
+models/
+*.h5
+*.ckpt
+*.pth
+*.pt
+*.joblib
+*.pkl
+
+# Cache do Hugging Face, spaCy, NLTK
+~/.cache/huggingface/
+~/.cache/spacy/
+~/.cache/nltk/
+
+# Arquivos de dependências e build
+*.lock
+poetry.lock
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Arquivos de IDEs e editores
+.vscode/
+.idea/
+*.iml
+
+# Arquivos gerados pelo sistema operacional
+Thumbs.db
+desktop.ini
