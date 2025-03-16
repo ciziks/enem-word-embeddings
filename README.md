@@ -28,7 +28,7 @@
 
 ## Descrição de Pastas
 
-- **Data:**  Arquivos de entrada serão armazenados em `1-raw`, ao passo que os de saída serão savos em `2-processed`.
+- **Data:**  Arquivos de entrada e saída
 - **Notebooks:** Arquivos de exploração de dados e sandbox.
 - **Src:** Scripts consolidados responsáveis pelo processamento de texto e modelagem.
 
