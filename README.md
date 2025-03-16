@@ -1,7 +1,5 @@
 # ENEM-WORD-EMBEDDINGS
 
-\*
-
 ## Estrutura do Repositório
 
 ```
