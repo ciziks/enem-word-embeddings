@@ -1,4 +1,4 @@
-# enem-word-embeddings# ENEM-WORD-EMBEDDINGS
+# ENEM-WORD-EMBEDDINGS
 
 \*
 
