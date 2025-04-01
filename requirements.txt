@@ -4,6 +4,7 @@ pandas
 seaborn
 matplotlib
 scipy
+pymupdf
 
 # Processamento de linguagem natural (PLN)
 wordcloud
