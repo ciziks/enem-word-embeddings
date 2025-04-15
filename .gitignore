@@ -31,7 +31,6 @@ models/
 *.pth
 *.pt
 *.joblib
-*.pkl
 
 # Cache do Hugging Face, spaCy, NLTK
 ~/.cache/huggingface/
@@ -52,3 +51,5 @@ pip-delete-this-directory.txt
 # Arquivos gerados pelo sistema operacional
 Thumbs.db
 desktop.ini
+
+cbow_s300.txt

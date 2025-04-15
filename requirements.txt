@@ -5,10 +5,15 @@ seaborn
 matplotlib
 scipy
 pymupdf
+pytesseract
+datasets
+statsmodels
+scikit-learn
 
 # Processamento de linguagem natural (PLN)
 wordcloud
 nltk
+gensim
 
 # Notebooks e ferramentas auxiliares
 notebook
