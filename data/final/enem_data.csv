@@ -25,9 +25,11 @@ numero_questao,enunciado,alternativas,nu_param_B,gabarito,year
 24,"Umidade relativa do ar é o termo usado para descrever a quantidade de vapor de água contido na atmosfera. Ela é definida pela razão entre o conteúdo real de umidade de uma parcela de ar e a quantidade de umidade que a mesma parcela de ar pode armazenar na mesma temperatura e pressão quando está saturada de vapor, isto é, com 100% de umidade relativa. O gráfico representa a relação entre a umidade relativa do ar e sua temperatura ao longo de um período de 24 horas em um determinado local. Considerando-se as informações do texto e do gráfico, conclui-se que","A: a insolação é um fator que provoca variação da umidade relativa do ar.; B: o ar vai adquirindo maior quantidade de vapor de água à medida que se aquece.; C: a presença de umidade relativa do ar é diretamente proporcional à temperatura do ar.; D: a umidade relativa do ar indica, em termos absolutos, a quantidade de vapor de água existente na atmosfera.; E: a variação da umidade do ar se verifica no verão, e não no inverno, quando as temperaturas permanecem baixas.",1.79362,A,2009
 25,"Os planos de controle e erradicação de doenças em animais envolvem ações de profilaxia e dependem em grande medida da correta utilização e interpretação de testes diagnósticos. O quadro mostra um exemplo hipotético de aplicação de um teste diagnóstico. condição real dos animais resultado do teste infectado não infectado total positivo 45 38 83 negativo 5 912 917 total 50 950 1.000 Considerando que, no teste diagnóstico, a sensibilidade é a probabilidade de um animal infectado ser classificado como positivo e a especificidade é a probabilidade de um animal não infectado ter resultado negativo, a interpretação do quadro permite inferir que","A: a especificidade aponta um número de 5 falsos positivos.; B: o teste, a cada 100 indivíduos infectados, classificaria 90 como positivos.; C: o teste classificaria 96 como positivos em cada 100 indivíduos não infectados.; D: ações de profilaxia são medidas adotadas para o tratamento de falsos positivos.; E: testes de alta sensibilidade resultam em maior número de animais falsos negativos comparado a um teste de baixa sensibilidade.",1.87019,B,2009
 26,"O processo de industrialização tem gerado sérios problemas de ordem ambiental, econômica e social, entre os quais se pode citar a chuva ácida. Os ácidos usualmente presentes em maiores proporções na água da chuva são o H2CO3, formado pela reação do CO2 atmosférico com a água, o HNO3, o HNO2, o H2SO4 e o H2SO3. Esses quatro últimos são formados principalmente a partir da reação da água com os óxidos de nitrogênio e de enxofre gerados pela queima de combustíveis fósseis. A formação de chuva mais ou menos ácida depende não só da concentração do ácido formado, como também do tipo de ácido. Essa pode ser uma informação útil na elaboração de estratégias para minimizar esse problema ambiental. Se consideradas concentrações idênticas, quais dos ácidos citados no texto conferem maior acidez às águas das chuvas?",A: HNO3 e HNO2.; B: H2SO4 e H2SO3.; C: H2SO3 e HNO2.; D: H2SO4 e HNO3.; E: H2CO3 e H2SO3.,1.85241,D,2009
+27,"O ônibus espacial Atlantis foi lançado ao espaço com cinco astronautas a bordo e uma câmera nova, que iria substituir uma outra danificada por um curto-circuito no telescópio Hubble. Depois de entrarem em órbita a 560 km de altura, os astronautas se aproximaram do Hubble. Dois astronautas saíram da Atlantis e se dirigiram ao telescópio. Ao abrir a porta de acesso, um deles exclamou: “Esse telescópio tem a massa grande, mas o peso é pequeno.” Considerando o texto e as leis de Kepler, pode-se afirmar que a frase dita pelo astronauta ","A: se justifica porque o tamanho do telescópio determina a sua massa, enquanto seu pequeno peso decorre da falta de ação da aceleração da gravidade.; B: se justifica ao verificar que a inércia do telescópio é grande comparada à dele próprio, e que o peso do telescópio é pequeno porque a atração gravitacional criada por sua massa era pequena.; C: não se justifica, porque a avaliação da massa e do peso de objetos em órbita tem por base as leis de Kepler, que não se aplicam a satélites artificiais.; D: não se justifica, porque a força-peso é a força exercida pela gravidade terrestre, neste caso, sobre o telescópio e é a responsável por manter o próprio telescópio em órbita.; E: não se justifica, pois a ação da força-peso implica a ação de uma força de reação contrária, que não existe naquele ambiente. A massa do telescópio poderia ser avaliada simplesmente pelo seu volume.",,D,2009
 28,"Uma pesquisadora deseja reflorestar uma área de mata ciliar quase que totalmente desmatada. Essa formação vegetal é um tipo de floresta muito comum nas margens de rios dos cerrados no Brasil central e, em seu clímax, possui vegetação arbórea perene e apresenta dossel fechado, com pouca incidência luminosa no solo e nas plântulas. Sabe-se que a incidência de luz, a disponibilidade de nutrientes e a umidade do solo são os principais fatores do meio ambiente físico que influenciam no desenvolvimento da planta. Para testar unicamente os efeitos da variação de luz, a pesquisadora analisou, em casas de vegetação com condições controladas, o desenvolvimento de plantas de 10 espécies nativas da região desmatada sob quatro condições de luminosidade: uma sob sol pleno e as demais em diferentes níveis de sombreamento. Para cada tratamento experimental, a pesquisadora relatou se o desenvolvimento da planta foi bom, razoável ou ruim, de acordo com critérios específicos. Os resultados obtidos foram os seguintes: Condição de luminosidade Espécie Sombreamento Sol pleno 30% 50% 90% 1 Razoável Bom Razoável Ruim 2 Bom Razoável Ruim Ruim 3 Bom Bom Razoável Ruim 4 Bom Bom Bom Bom 5 Bom Razoável Ruim Ruim 6 Ruim Razoável Bom Bom 7 Ruim Ruim Ruim Razoável 8 Ruim Ruim Razoável Ruim 9 Ruim Razoável Bom Bom 10 Razoável Razoável Razoável Bom Para o reflorestamento da região desmatada,","A: a espécie 8 é mais indicada que a 1, uma vez que aquela possui melhor adaptação a regiões com maior incidência de luz.; B: recomenda-se a utilização de espécies pioneiras, isto é, aquelas que suportam alta incidência de luz, como as espécies 2, 3 e 5.; C: sugere-se o uso de espécies exóticas, pois somente essas podem suportar a alta incidência luminosa característica de regiões desmatadas.; D: espécies de comunidade clímax, como as 4 e 7, são as mais indicadas, uma vez que possuem boa capacidade de aclimatação a diferentes ambientes.; E: é recomendado o uso de espécies com melhor desenvolvimento à sombra, como as plantas das espécies 4, 6, 7, 9 e 10, pois essa floresta, mesmo no estágio de degradação referido, possui dossel fechado, o que impede a entrada de luz.",2.33294,B,2009
 29,"Os núcleos dos átomos são constituídos de prótons e nêutrons, sendo ambos os principais responsáveis pela sua massa. Nota-se que, na maioria dos núcleos, essas partículas não estão presentes na mesma proporção. O gráfico mostra a quantidade de nêutrons (N) em função da quantidade de prótons (Z) para os núcleos estáveis conhecidos. O antimônio é um elemento químico que possui 50 prótons e possui vários isótopos ― átomos que só se diferem pelo número de nêutrons. De acordo com o gráfico, os isótopos estáveis do antimônio possuem",A: entre 12 e 24 nêutrons a menos que o número de prótons.; B: exatamente o mesmo número de prótons e nêutrons.; C: entre 0 e 12 nêutrons a mais que o número de prótons.; D: entre 12 e 24 nêutrons a mais que o número de prótons.; E: entre 0 e 12 nêutrons a menos que o número de prótons.,1.78311,D,2009
 30,"É possível, com 1 litro de gasolina, usando todo o calor produzido por sua combustão direta, aquecer 200 litros de água de 20 °C a 55 °C. Pode-se efetuar esse mesmo aquecimento por um gerador de eletricidade, que consome 1 litro de gasolina por hora e fornece 110 V a um resistor de 11 Ω, imerso na água, durante um certo intervalo de tempo. Todo o calor liberado pelo resistor é transferido à água. Considerando que o calor específico da água é igual a 4,19 J g-1 °C-1, aproximadamente qual a quantidade de gasolina consumida para o aquecimento de água obtido pelo gerador, quando comparado ao obtido a partir da combustão?",A: A quantidade de gasolina consumida é igual para os dois casos.; B: A quantidade de gasolina consumida pelo gerador é duas vezes maior que a consumida na combustão.; C: A quantidade de gasolina consumida pelo gerador é duas vezes menor que a consumida na combustão.; D: A quantidade de gasolina consumida pelo gerador é sete vezes maior que a consumida na combustão.; E: A quantidade de gasolina consumida pelo gerador é sete vezes menor que a consumida na combustão.,2.54978,D,2009
+31,"O progresso da tecnologia introduziu diversos artefatos geradores de campos eletromagnéticos. Uma das mais empregadas invenções nessa área são os telefones celulares e smartphones. As tecnologias de transmissão de celular atualmente em uso no Brasil contemplam dois sistemas. O primeiro deles é operado entre as frequências de 800 MHz e 900 MHz e constitui os chamados sistemas TDMA/CDMA. Já a tecnologia GSM, ocupa a frequência de 1.800 MHz. Considerando que a intensidade de transmissão e o nível de recepção “celular” sejam os mesmos para as tecnologias de transmissão TDMA/CDMA ou GSM, se um engenheiro tiver de escolher entre as duas tecnologias para obter a mesma cobertura, levando em consideração apenas o número de antenas em uma região, ele deverá escolher:","A: a tecnologia GSM, pois é a que opera com ondas de maior comprimento de onda.; B: a tecnologia TDMA/CDMA, pois é a que apresenta Efeito Doppler mais pronunciado.; C: a tecnologia GSM, pois é a que utiliza ondas que se propagam com maior velocidade.; D: qualquer uma das duas, pois as diferenças nas frequências são compensadas pelas diferenças nos comprimentos de onda.; E: qualquer uma das duas, pois nesse caso as intensidades decaem igualmente da mesma forma, independentemente da frequência.",,E,2009
 32,"Considere um equipamento capaz de emitir radiação eletromagnética com comprimento de onda bem menor que a da radiação ultravioleta. Suponha que a radiação emitida por esse equipamento foi apontada para um tipo específico de filme fotográfico e entre o equipamento e o filme foi posicionado o pescoço de um indivíduo. Quanto mais exposto à radiação, mais escuro se torna o filme após a revelação. Após acionar o equipamento e revelar o filme, evidenciou-se a imagem mostrada na figura abaixo. Dentre os fenômenos decorrentes da interação entre a radiação e os átomos do indivíduo que permitem a obtenção desta imagem inclui-se a","A: absorção da radiação eletromagnética e a consequente ionização dos átomos de cálcio, que se transformam em átomos de fósforo.; B: maior absorção da radiação eletromagnética pelos átomos de cálcio que por outros tipos de átomos.; C: maior absorção da radiação eletromagnética pelos átomos de carbono que por átomos de cálcio.; D: maior refração ao atravessar os átomos de carbono que os átomos de cálcio.; E: maior ionização de moléculas de água que de átomos de carbono.",1.92002,B,2009
 33,"Os ratos Peromyscus polionotus encontram-se distribuídos em ampla região na América do Norte. A pelagem de ratos dessa espécie varia do marrom claro até o escuro, sendo que os ratos de uma mesma população têm coloração muito semelhante. Em geral, a coloração da pelagem também é muito parecida à cor do solo da região em que se encontram, que também apresenta a mesma variação de cor, distribuída ao longo de um gradiente sul-norte. Na figura, encontram-se representadas sete diferentes populações de P. polionotus. Cada população é representada pela pelagem do rato, por uma amostra de solo e por sua posição geográfica no mapa. O mecanismo evolutivo envolvido na associação entre cores de pelagem e de substrato é ","A: a alimentação, pois pigmentos de terra são absorvidos e alteram a cor da pelagem dos roedores.; B: o fluxo gênico entre as diferentes populações, que mantém constante a grande diversidade interpopulacional.; C: a seleção natural, que, nesse caso, poderia ser entendida como a sobrevivência diferenciada de indivíduos com características distintas.; D: a mutação genética, que, em certos ambientes, como os de solo mais escuro, têm maior ocorrência e capacidade de alterar significativamente a cor da pelagem dos animais.; E: a herança de caracteres adquiridos, capacidade de organismos se adaptarem a diferentes ambientes e transmitirem suas características genéticas aos descendentes.",1.5324,C,2009
 34,"O lixo orgânico de casa – constituído de restos de verduras, frutas, legumes, cascas de ovo, aparas de grama, entre outros –, se for depositado nos lixões, pode contribuir para o aparecimento de animais e de odores indesejáveis. Entretanto, sua reciclagem gera um excelente adubo orgânico, que pode ser usado no cultivo de hortaliças, frutíferas e plantas ornamentais. A produção do adubo ou composto orgânico se dá por meio da compostagem, um processo simples que requer alguns cuidados especiais. O material que é acumulado diariamente em recipientes próprios deve ser revirado com auxílio de ferramentas adequadas, semanalmente, de forma a homogeneizá-lo. É preciso também umedecê-lo periodicamente. O material de restos de capina pode ser intercalado entre uma camada e outra de lixo da cozinha. Por meio desse método, o adubo orgânico estará pronto em aproximadamente dois a três meses. Suponha que uma pessoa, desejosa de fazer seu próprio adubo orgânico, tenha seguido o procedimento descrito no texto, exceto no que se refere ao umedecimento periódico do composto. Nessa situação,","A: o processo de compostagem iria produzir intenso mau cheiro.; B: o adubo formado seria pobre em matéria orgânica que não foi transformada em composto.; C: a falta de água no composto vai impedir que microrganismos decomponham a matéria orgânica.; D: a falta de água no composto iria elevar a temperatura da mistura, o que resultaria na perda de nutrientes essenciais.; E: apenas microrganismos que independem de oxigênio poderiam agir sobre a matéria orgânica e transformá-la em adubo.",3.25833,C,2009
@@ -51,6 +53,7 @@ numero_questao,enunciado,alternativas,nu_param_B,gabarito,year
 52,"Com o objetivo de se testar a eficiência de fornos de micro-ondas, planejou-se o aquecimento em 10 ºC de amostras de diferentes substâncias, cada uma com determinada massa, em cinco fornos de marcas distintas. Nesse teste, cada forno operou à potência máxima. O forno mais eficiente foi aquele que",A: forneceu a maior quantidade de energia às amostras.; B: cedeu energia à amostra de maior massa em mais tempo.; C: forneceu a maior quantidade de energia em menos tempo.; D: cedeu energia à amostra de menor calor específico mais lentamente.; E: forneceu a menor quantidade de energia às amostras em menos tempo.,-0.67482,C,2010
 53,"O fósforo, geralmente representado pelo íon de fosfato ( ), é um ingrediente insubstituível da vida, já que é parte constituinte das membranas celulares e das moléculas do DNA e do trifosfato de adenosina (ATP), principal forma de armazenamento de energia das células. O fósforo utilizado nos fertilizantes agrícolas é extraído de minas, cujas reservas estão cada vez mais escassas. Certas práticas agrícolas aceleram a erosão do solo, provocando o transporte de fósforo para sistemas aquáticos, que fica imobilizado nas rochas. Ainda, a colheita das lavouras e o transporte dos restos alimentares para os lixões diminuem a disponibilidade dos íons no solo. Tais fatores têm ameaçado a sustentabilidade desse íon. Uma medida que amenizaria esse problema seria:","A: Incentivar a reciclagem de resíduos biológicos, utilizando dejetos animais e restos de culturas para produção de adubo.; B: Repor o estoque retirado das minas com um íon sintético de fósforo para garantir o abastecimento da indústria de fertilizantes.; C: Aumentar a importação de íons fosfato dos países ricos para suprir as exigências das indústrias nacionais de fertilizantes.; D: Substituir o fósforo dos fertilizantes por outro elemento com a mesma função para suprir as necessidades do uso de seus íons.; E: Proibir, por meio de lei federal, o uso de fertilizantes com fósforo pelos agricultores, para diminuir sua extração das reservas naturais.",0.76122,A,2010
 54,"Júpiter, conhecido como o gigante gasoso, perdeu uma das suas listras mais proeminentes, deixando o seu hemisfério sul estranhamente vazio. Observe a região em que a faixa sumiu, destacada pela seta. Disponível em: http://www.inovacaotecnologica.com.br. Acesso em: 12 maio 2010 (adaptado). A aparência de Júpiter é tipicamente marcada por duas faixas escuras em sua atmosfera — uma no hemisfério norte e outra no hemisfério sul. Como o gás está constantemente em movimento, o desaparecimento da faixa no planeta relaciona-se ao movimento das diversas camadas de nuvens em sua atmosfera. A luz do Sol, refletida nessas nuvens, gera a imagem que é captada pelos telescópios, no espaço ou na Terra. O desaparecimento da faixa sul pode ter sido determinado por uma alteração",A: na temperatura da superfície do planeta.; B: no formato da camada gasosa do planeta.; C: no campo gravitacional gerado pelo planeta.; D: na composição química das nuvens do planeta.; E: na densidade das nuvens que compõem o planeta.,1.41425,E,2010
+55,"Em visita a uma usina sucroalcooleira, um grupo de alunos pôde observar a série de processos de beneficiamento da cana-de-açúcar, entre os quais se destacam: 1. A cana chega cortada da lavoura por meio de caminhões e é despejada em mesas alimentadoras que a conduzem para as moendas. Antes de ser esmagada para a retirada do caldo açucarado, toda a cana é transportada por esteiras e passada por um eletroimã para a retirada de materiais metálicos. 2. Após se esmagar a cana, o bagaço segue para as caldeiras, que geram vapor e energia para toda a usina. 3. O caldo primário, resultante do esmagamento, é passado por filtros e sofre tratamento para transformar-se em açúcar refinado e etanol. Com base nos destaques da observação dos alunos, quais operações físicas de separação de materiais foram realizadas nas etapas de beneficiamento da canade-açúcar?","A: Separação mecânica, extração, decantação.; B: Separação magnética, combustão, filtração.; C: Separação magnética, extração, filtração.; D: Imantação, combustão, peneiração.; E: Imantação, destilação, filtração.",,C,2010
 56,"A fonte de energia representada na figura, considerada uma das mais limpas e sustentáveis do mundo, é extraída do calor gerado",A: pela circulação do magma no subsolo.; B: pelas erupções constantes dos vulcões.; C: pelo sol que aquece as águas com radiação ultravioleta.; D: pela queima do carvão e combustíveis fósseis.; E: pelos detritos e cinzas vulcânicas.,-0.20791,A,2010
 57,"O despejo de dejetos de esgotos domésticos e industriais vem causando sérios problemas aos rios brasileiros. Esses poluentes são ricos em substâncias que contribuem para a eutrofização de ecossistemas, que é um enriquecimento da água por nutrientes, o que provoca um grande crescimento bacteriano e, por fim, pode promover escassez de oxigênio. Uma maneira de evitar a diminuição da concentração de oxigênio no ambiente é:",A: Aquecer as águas dos rios para aumentar a velocidade de decomposição dos dejetos.; B: Retirar do esgoto os materiais ricos em nutrientes para diminuir a sua concentração nos rios.; C: Adicionar bactérias anaeróbicas às águas dos rios para que elas sobrevivam mesmo sem o oxigênio.; D: Substituir produtos não degradáveis por biodegradáveis para que as bactérias possam utilizar os nutrientes.; E: Aumentar a solubilidade dos dejetos no esgoto para que os nutrientes fiquem mais acessíveis às bactérias.,0.9479,B,2010
 58,"Sob pressão normal (ao nível do mar), a água entra em ebulição à temperatura de 100 o C. Tendo por base essa informação, um garoto residente em uma cidade litorânea fez a seguinte experiência: • Colocou uma caneca metálica contendo água no fogareiro do fogão de sua casa. • Quando a água começou a ferver, encostou cuidadosamente a extremidade mais estreita de uma seringa de injeção, desprovida de agulha, na superfície do líquido e, erguendo o êmbolo da seringa, aspirou certa quantidade de água para seu interior, tapando-a em seguida. • Verificando após alguns instantes que a água da seringa havia parado de ferver, ele ergueu o êmbolo da seringa, constatando, intrigado, que a água voltou a ferver após um pequeno deslocamento do êmbolo. Considerando o procedimento anterior, a água volta a ferver porque esse deslocamento","A: permite a entrada de calor do ambiente externo para o interior da seringa.; B: provoca, por atrito, um aquecimento da água contida na seringa.; C: produz um aumento de volume que aumenta o ponto de ebulição da água.; D: proporciona uma queda de pressão no interior da seringa que diminui o ponto de ebulição da água.; E: possibilita uma diminuição da densidade da água que facilita sua ebulição.",0.64308,D,2010
@@ -62,9 +65,12 @@ numero_questao,enunciado,alternativas,nu_param_B,gabarito,year
 64,"Alguns anfíbios e répteis são adaptados à vida subterrânea. Nessa situação, apresentam algumas características corporais como, por exemplo, ausência de patas, corpo anelado que facilita o deslocamento no subsolo e, em alguns casos, ausência de olhos. Suponha que um biólogo tentasse explicar a origem das adaptações mencionadas no texto utilizando conceitos da teoria evolutiva de Lamarck. Ao adotar esse ponto de vista, ele diria que","A: as características citadas no texto foram originadas pela seleção natural.; B: a ausência de olhos teria sido causada pela falta de uso dos mesmos, segundo a lei do uso e desuso.; C: o corpo anelado é uma característica fortemente adaptativa, mas seria transmitida apenas à primeira geração de descendentes.; D: as patas teriam sido perdidas pela falta de uso e, em seguida, essa característica foi incorporada ao patrimônio genético e então transmitidas aos descendentes.; E: as características citadas no texto foram adquiridas por meio de mutações e depois, ao longo do tempo, foram selecionadas por serem mais adaptadas ao ambiente em que os organismos se encontram.",1.12506,B,2010
 65,"As misturas efervescentes, em pó ou em comprimidos, são comuns para a administração de vitamina C ou de medicamentos para azia. Essa forma farmacêutica sólida foi desenvolvida para facilitar o transporte, aumentar a estabilidade de substâncias e, quando em solução, acelerar a absorção do fármaco pelo organismo. As matérias-primas que atuam na efervescência são, em geral, o ácido tartárico ou o ácido cítrico que reagem com um sal de caráter básico, como o bicarbonato de sódio (NaHCO3 ), quando em contato com a água. A partir do contato da mistura efervescente com a água, ocorre uma série de reações químicas simultâneas: liberação de íons, formação de ácido e liberação do gás carbônico — gerando a efervescência. As equações a seguir representam as etapas da reação da mistura efervescente na água, em que foram omitidos os estados de agregação dos reagentes, e H3 A representa o ácido cítrico. A ionização, a dissociação iônica, a formação do ácido e a liberação do gás ocorrem, respectivamente, nas seguintes etapas:","A: IV, I, II e III I, IV, III e II IV, III, I e II I, IV, II e III IV, I, III e II",1.27345,E,2010
 66,"Um ambiente capaz de asfixiar todos os animais conhecidos do planeta foi colonizado por pelo menos três espécies diferentes de invertebrados marinhos. Descobertos a mais de 3 000 m de profundidade no Mediterrâneo, eles são os primeiros membros do reino animal a prosperar mesmo diante da ausência total de oxigênio. Até agora, achava-se que só bactérias pudessem ter esse estilo de vida. Não admira que os bichos pertençam a um grupo pouco conhecido, o dos loricíferos, que mal chegam a 1,0 mm. Apesar do tamanho, possuem cabeça, boca, sistema digestivo e uma carapaça. A adaptação dos bichos à vida no sufoco é tão profunda que suas células dispensaram as chamadas mitocôndrias. Que substâncias poderiam ter a mesma função do O2 na respiração celular realizada pelos loricíferos?",A: S e CH4 S e H2 e CO2 e CH4 H2 e CO2,2.05262,B,2010
+67,"O abastecimento de nossas necessidades energéticas futuras dependerá certamente do desenvolvimento de tecnologias para aproveitar a energia solar com maior eficiência. A energia solar é a maior fonte de energia mundial. Num dia ensolarado, por exemplo, aproximadamente 1 kJ de energia solar atinge cada metro quadrado da superfície terrestre por segundo. No entanto, o aproveitamento dessa energia é difícil porque ela é diluída (distribuída por uma área muito extensa) e oscila com o horário e as condições climáticas. O uso efetivo da energia solar depende de formas de estocar a energia coletada para uso posterior. Atualmente, uma das formas de se utilizar a energia solar tem sido armazená-la por meio de processos químicos endotérmicos que mais tarde podem ser revertidos para liberar calor. Considerando a reação: CH4(g) + H2 O(v) + calor  CO(g) + 3 H2(g) e analisando-a como potencial mecanismo para o aproveitamento posterior da energia solar, conclui-se que se trata de uma estratégia","A: insatisfatória, pois a reação apresentada não permite que a energia presente no meio externo seja absorvida pelo sistema para ser utilizada posteriormente.; B: insatisfatória, uma vez que há formação de gases poluentes e com potencial poder explosivo, tornando-a uma reação perigosa e de difícil controle.; C: insatisfatória, uma vez que há formação de gás CO que não possui conteúdo energético passível de ser aproveitado posteriormente e é considerado um gás poluente.; D: satisfatória, uma vez que a reação direta ocorre com absorção de calor e promove a formação das substâncias combustíveis que poderão ser utilizadas posteriormente para obtenção de energia e realização de trabalho útil.; E: satisfatória, uma vez que a reação direta ocorre com liberação de calor havendo ainda a formação das substâncias combustíveis que poderão ser utilizadas posteriormente para obtenção de energia e realização de trabalho útil.",,D,2010
 68,"A energia elétrica consumida nas residências é medida, em quilowatt-hora, por meio de um relógio medidor de consumo. Nesse relógio, da direita para esquerda, tem-se o ponteiro da unidade, da dezena, da centena e do milhar. Se um ponteiro estiver entre dois números, considera-se o último número ultrapassado pelo ponteiro. Suponha que as medidas indicadas nos esquemas seguintes tenham sido feitas em uma cidade em que o preço do quilowatt-hora fosse de R$ 0,20. O valor a ser pago pelo consumo de energia elétrica registrado seria de","A: R$ 41,80.; B: R$ 42,00.; C: R$ 43,00.; D: R$ 43,80.; E: R$ 44,00.",1.68423,E,2010
 69,"No que tange à tecnologia de combustíveis alternativos, muitos especialistas em energia acreditam que os alcoóis vão crescer em importância em um futuro próximo. Realmente, alcoóis como metanol e etanol têm encontrado alguns nichos para uso doméstico como combustíveis há muitas décadas e, recentemente, vêm obtendo uma aceitação cada vez maior como aditivos, ou mesmo como substitutos para gasolina em veículos. Algumas das propriedades físicas desses combustíveis são mostradas no quadro seguinte. Dados: Massas molares em g/mol: H = 1,0; C = 12,0; O = 16,0. Considere que, em pequenos volumes, o custo de produção de ambos os alcoóis seja o mesmo. Dessa forma, do ponto de vista econômico, é mais vantajoso utilizar","A: metanol, pois sua combustão completa fornece aproximadamente 22,7 kJ de energia por litro de combustível queimado.; B: etanol, pois sua combustão completa fornece aproximadamente 29,7 kJ de energia por litro de combustível queimado.; C: metanol, pois sua combustão completa fornece aproximadamente 17,9 MJ de energia por litro de combustível queimado.; D: etanol, pois sua combustão completa fornece aproximadamente 23,5 MJ de energia por litro de combustível queimado.; E: etanol, pois sua combustão completa fornece aproximadamente 33,7 MJ de energia por litro de combustível queimado.",1.74716,D,2010
+70,"Observe a tabela seguinte. Ela traz especificações técnicas constantes no manual de instruções fornecido pelo fabricante de uma torneira elétrica. Considerando que o modelo de maior potência da versão 220 V da torneira suprema foi inadvertidamente conectada a uma rede com tensão nominal de 127 V, e que o aparelho está configurado para trabalhar em sua máxima potência. Qual o valor aproximado da potência ao ligar a torneira?",A: 1.; B:830 W 2.; C:800 W 3.; D:200 W 4.; E:030 W 5.500 W,,A,2010
 71,"O uso prolongado de lentes de contato, sobretudo durante a noite, aliado a condições precárias de higiene representam fatores de risco para o aparecimento de uma infecção denominada ceratite microbiana, que causa ulceração inflamatória da córnea. Para interromper o processo da doença, é necessário tratamento antibiótico. De modo geral, os fatores de risco provocam a diminuição da oxigenação corneana e determinam mudanças no seu metabolismo, de um estado aeróbico para anaeróbico. Como decorrência, observa-se a diminuição no número e na velocidade de mitoses do epitélio, o que predispõe ao aparecimento de defeitos epiteliais e à invasão bacteriana. A instalação das bactérias e o avanço do processo infeccioso na córnea estão relacionados a algumas características gerais desses microrganismos, tais como:","A: A grande capacidade de adaptação, considerando as constantes mudanças no ambiente em que se reproduzem e o processo aeróbico como a melhor opção desses microrganismos para a obtenção de energia.; B: A grande capacidade de sofrer mutações, aumentando a probabilidade do aparecimento de formas resistentes e o processo anaeróbico da fermentação como a principal via de obtenção de energia.; C: A diversidade morfológica entre as bactérias, aumentando a variedade de tipos de agentes infecciosos e a nutrição heterotrófica, como forma de esses microrganismos obterem matéria-prima e energia.; D: O alto poder de reprodução, aumentando a variabilidade genética dos milhares de indivíduos e a nutrição heterotrófica, como única forma de obtenção de matériaprima e energia desses microrganismos.; E: O alto poder de reprodução, originando milhares de descendentes geneticamente idênticos entre si e a diversidade metabólica, considerando processos aeróbicos e anaeróbicos para a obtenção de energia.",2.21444,E,2010
+72,"Todos os organismos necessitam de água e grande parte deles vive em rios, lagos e oceanos. Os processos biológicos, como respiração e fotossíntese, exercem profunda influência na química das águas naturais em todo o planeta. O oxigênio é ator dominante na química e na bioquímica da hidrosfera. Devido a sua baixa solubilidade em água (9,0 mg/ℓ a 20ºC) a disponibilidade de oxigênio nos ecossistemas aquáticos estabelece o limite entre a vida aeróbica e anaeróbica. Nesse contexto, um parâmetro chamado Demanda Bioquímica de Oxigênio (DBO) foi definido para medir a quantidade de matéria orgânica presente em um sistema hídrico. A DBO corresponde à massa de O2 em miligramas necessária para realizar a oxidação total do carbono orgânico em um litro de água. Dados: Massas molares em g/mol: C = 12; H = 1; O = 16. Suponha que 10 mg de açúcar (fórmula mínima CH2 O e massa molar igual a 30 g/mol) são dissolvidos em um litro de água; em quanto a DBO será aumentada?","A: 0,4 mg de O2 /litro 1,7 mg de O2 / litro 2,7 mg de O2 / litro 9,4 mg de O2 / litro 10,7 mg de O2 / litro",,E,2010
 73,"A composição média de uma bateria automotiva esgotada é de aproximadamente 32% Pb, 3% PbO, 17% PbO2 e 36% PbSO4 . A média de massa da pasta residual de uma bateria usada é de 6 kg, onde 19% é PbO2 , 60% PbSO4 e 21% Pb. Entre todos os compostos de chumbo presentes na pasta, o que mais preocupa é o sulfato de chumbo (II), pois nos processos pirometalúrgicos, em que os compostos de chumbo (placas das baterias) são fundidos, há a conversão de sulfato em dióxido de enxofre, gás muito poluente. Para reduzir o problema das emissões de SO2(g), a indústria pode utilizar uma planta mista, ou seja, utilizar o processo hidrometalúrgico, para a dessulfuração antes da fusão do composto de chumbo. Nesse caso, a redução de sulfato presente no PbSO4 é feita via lixiviação com solução de carbonato de sódio (Na2 CO3 ) 1M a 45 ºC, em que se obtém o carbonato de chumbo (II) com rendimento de 91%. Após esse processo, o material segue para a fundição para obter o chumbo metálico. PbSO4 + Na2 CO3 → PbCO3 + Na2 SO4 Dados: Massas Molares em g/mol Pb = 207; S = 32; Na = 23; O = 16; C = 12 Segundo as condições do processo apresentado para a obtenção de carbonato de chumbo (II) por meio da lixiviação por carbonato de sódio e considerando uma massa de pasta residual de uma bateria de 6 kg, qual quantidade aproximada, em quilogramas, de PbCO3 é obtida?","A: 1,7 kg 1,9 kg 2,9 kg 3,3 kg 3,6 kg",4.43681,C,2010
 74,"A eletrólise é muito empregada na indústria com o objetivo de reaproveitar parte dos metais sucateados. O cobre, por exemplo, é um dos metais com maior rendimento no processo de eletrólise, com uma recuperação de aproximadamente 99,9%. Por ser um metal de alto valor comercial e de múltiplas aplicações, sua recuperação torna-se viável economicamente. Suponha que, em um processo de recuperação de cobre puro, tenha-se eletrolisado uma solução de sulfato de cobre (II) (CuSO4 ) durante 3 h, empregando-se uma corrente elétrica de intensidade igual a 10 A. A massa de cobre puro recuperada é de aproximadamente Dados: Constante de Faraday F = 96 500 C/mol; Massa molar em g/mol: Cu = 63,5.","A: 0,02 g.; B: 0,04 g.; C: 2,40 g.; D: 35,5 g.; E: 71,0 g.",2.1523,D,2010
 75,"Dois pesquisadores percorreram os trajetos marcados no mapa. A tarefa deles foi analisar os ecossistemas e, encontrando problemas, relatar e propor medidas de recuperação. A seguir, são reproduzidos trechos aleatórios extraídos dos relatórios desses dois pesquisadores. Trechos aleatórios extraídos do relatório do pesquisador P1 : I. “Por causa da diminuição drástica das espécies vegetais deste ecossistema, como os pinheiros, a gralha azul também está em processo de extinção”. II. “As árvores de troncos tortuosos e cascas grossas que predominam nesse ecossistema estão sendo utilizadas em carvoarias”. Trechos aleatórios extraídos do relatório do pesquisador P2 : III. “Das palmeiras que predominam nesta região podem ser extraídas substâncias importantes para a economia regional”. IV. “Apesar da aridez desta região, em que encontramos muitas plantas espinhosas, não se pode desprezar a sua biodiversidade.” Os trechos I, II, III e IV referem-se, pela ordem, aos seguintes ecossistemas:","A: Caatinga, Cerrado, Zona dos cocais e Floresta Amazônica.; B: Mata de Araucárias, Cerrado, Zona dos cocais e Caatinga.; C: Manguezais, Zona dos cocais, Cerrado e Mata Atlântica.; D: Floresta Amazônica, Cerrado, Mata Atlântica e Pampas.; E: Mata Atlântica, Cerrado, Zona dos cocais e Pantanal.",0.02055,B,2010
@@ -109,6 +115,7 @@ alteração epigenética, pois são ocasionados por",A: aneuploidia do cromossom
 68,"Um instituto de pesquisa norte-americano divulgou recentemente ter criado uma “célula sintética”, uma bactéria chamada de Mycoplasma mycoides. Os pesquisadores montaram uma sequência de nucleotídeos, que formam o único cromossomo dessa bactéria, o qual foi introduzido em outra espécie de bactéria, a Mycoplasma capricolum. Após a introdução, o cromossomo da M. capricolum foi neutralizado e o cromossomo artificial da M. mycoides começou a gerenciar a célula, produzindo suas proteínas. A importância dessa inovação tecnológica para a comunidade científica se deve à","A: possibilidade de sequenciar os genomas de bactérias para serem usados como receptoras de cromossomos artificiais.; B: capacidade de criação, pela ciência, de novas formas de vida, utilizando substâncias como carboidratos e lipídios.; C: possibilidade de produção em massa da bactéria Mycoplasma capricolum para sua distribuição em ambientes naturais.; D: possibilidade de programar geneticamente microrganismos ou seres mais complexos para produzir medicamentos, vacinas e combustíveis.; E: capacidade da bactéria Mycoplasma capricolum de expressar suas proteínas na bactéria sintética e estas serem usadas na indústria.",0.51757,D,2011
 69,"Os sintomas mais sérios da Gripe A, causada pelo vírus H1N1, foram apresentados por pessoas mais idosas e por gestantes. O motivo aparente é a menor imunidade desses grupos contra o vírus. Para aumentar a imunidade populacional relativa ao vírus da gripe A, o governo brasileiro distribuiu vacinas para os grupos mais suscetíveis. A vacina contra o H1N1, assim como qualquer outra vacina contra agentes causadores de doenças infectocontagiosas, aumenta a imunidade das pessoas porque",A: possui anticorpos contra o agente causador da doença.; B: possui proteínas que eliminam o agente causador da doença.; C: estimula a produção de glóbulos vermelhos pela medula óssea.; D: possui linfócitos; B: e T que neutralizam o agente causador da doença.; E: estimula a produção de anticorpos contra o agente causador da doença.,0.02999,E,2011
 70,"Um curioso estudante, empolgado com a aula de circuito elétrico que assistiu na escola, resolve desmontar sua lanterna. Utilizando-se da lâmpada e da pilha, retiradas do equipamento, e de um fio com as extremidades descascadas, faz as seguintes ligações com a intenção de acender a lâmpada: A importância dessa inovação tecnológica para a comunidade científica se deve à","A: (1), (3), (6); B: (3), (4), (5); C: (1), (3), (5); D: (1), (3), (7); E: (1), (2), (5)",1.3984,D,2011
+71,"Os biocombustíveis de primeira geração são derivados da soja, milho e cana-de-açúcar e sua produção ocorre através da fermentação. Biocombustíveis derivados de material celulósico ou biocombustíveis de segunda geração — coloquialmente chamados de “gasolina de capim” — são aqueles produzidos a partir de resíduos de madeira (serragem, por exemplo), talos de milho, palha de trigo ou capim de crescimento rápido e se apresentam como uma alternativa para os problemas enfrentados pelos de primeira geração, já que as matérias-primas são baratas e abundantes. O texto mostra um dos pontos de vista a respeito do uso dos biocombustíveis na atualidade, os quais","A: são matrizes energéticas com menor carga de poluição para o ambiente e podem propiciar a geração de novos empregos, entretanto, para serem oferecidos com baixo custo, a tecnologia da degradação da celulose nos biocombustíveis de segunda geração deve ser extremamente eficiente.; B: oferecem múltiplas dificuldades, pois a produção é de alto custo, sua implantação não gera empregos, e deve-se ter cuidado com o risco ambiental, pois eles oferecerem os mesmos riscos que o uso de combustíveis fósseis.; C: sendo de segunda geração, são produzidos por uma tecnologia que acarreta problemas sociais, sobretudo decorrente do fato de a matéria-prima ser abundante e facilmente encontrada, o que impede a geração de novos empregos.; D: sendo de primeira e segunda geração, são produzidos por tecnologias que devem passar por uma avaliação criteriosa quanto ao uso, pois uma enfrenta o problema da falta de espaço para plantio da matéria-prima e a outra impede a geração de novas fontes de emprego.; E: podem acarretar sérios problemas econômicos e sociais, pois a substituição do uso de petróleo afeta negativamente toda uma cadeia produtiva na medida em que exclui diversas fontes de emprego nas refinarias, postos de gasolina e no transporte de petróleo e gasolina.",,A,2011
 72,"A bile é produzida pelo fígado, armazenada na vesícula biliar e tem papel fundamental na digestão de lipídeos. Os sais biliares são esteroides sintetizados no fígado a partir do colesterol, e sua rota de síntese envolve várias etapas. Partindo do ácido cólico representado na figura, ocorre a formação dos ácidos glicocólico e taurocólico; o prefixo glico- significa a presença de um resíduo do aminoácido glicina e o prefixo tauro-, do aminoácido taurina. A combinação entre o ácido cólico e a glicina ou taurina origina a função amida, formada pela reação entre o grupo amina desses aminoácidos e o grupo",A: carboxila do ácido cólico.; B: aldeído do ácido cólico.; C: hidroxila do ácido cólico.; D: cetona do ácido cólico.; E: éster do ácido cólico.,1.43777,A,2011
 73,"Em um experimento realizado para determinar a densidade da água de um lago, foram utilizados alguns materiais conforme ilustrado: um dinamômetro D com graduação de 0 N a 50 N e um cubo maciço e homogêneo de 10 cm de aresta e 3 kg de massa. Inicialmente, foi conferida a calibração do dinamômetro, constatando-se a leitura de 30 N quando o cubo era preso ao dinamômetro e suspenso no ar. Ao mergulhar o cubo na água do lago, até que metade do seu volume ficasse submersa, foi registrada a leitura de 24 N no dinamômetro. Considerando que a aceleração da gravidade local é de 10 m/s2 , a densidade da água do lago, em g/cm3 , é","A: 0,6.; B: 1,2.; C: 1,5.; D: 2,4.; E: 4,8.",1.73884,B,2011
 74,"Uma equipe de cientistas lançará uma expedição ao Titanic para criar um detalhado mapa 3D que “vai tirar, virtualmente, o Titanic do fundo do mar para o público”. A expedição ao local, a 4 quilômetros de profundidade no Oceano Atlântico, está sendo apresentada como a mais sofisticada expedição científica ao Titanic. Ela utilizará tecnologias de imagem e sonar que nunca tinham sido aplicadas ao navio, para obter o mais completo inventário de seu conteúdo. Esta complementação é necessária em razão das condições do navio, naufragado há um século. No problema apresentado para gerar imagens através de camadas de sedimentos depositados no navio, o sonar é mais adequado, pois a",A: propagação da luz na água ocorre a uma velocidade maior que a do som neste meio.; B: absorção da luz ao longo de uma camada de água é facilitada enquanto a absorção do som não.; C: refração da luz a uma grande profundidade acontece com uma intensidade menor que a do som.; D: atenuação da luz nos materiais analisados é distinta da atenuação de som nestes mesmos materiais.; E: reflexão da luz nas camadas de sedimentos é menos intensa do que a reflexão do som neste material.,1.37136,D,2011
@@ -223,7 +230,9 @@ alteração epigenética, pois são ocasionados por",A: aneuploidia do cromossom
 48,"A liberação dos gases clorofluorcarbonos (CFCs) na atmosfera pode provocar depleção de ozônio (O3) na estratosfera. O ozônio estratosférico é responsável por absorver parte da radiação ultravioleta emitida pelo Sol, a qual é nociva aos seres vivos. Esse processo, na camada de ozônio, é ilustrado simplificadamente na figura. Quimicamente, a destruição do ozônio na atmosfera por gases CFCs é decorrência da","A: clivagem da molécula de ozônio pelos CFCs para produzir espécies radicalares.; B: produção de oxigênio molecular a partir de ozônio, catalisada por átomos de cloro.; C: oxidação do monóxido de cloro por átomos de oxigênio para produzir átomos de cloro.; D: reação direta entre os CFCs e o ozônio para produzir oxigênio molecular e monóxido de cloro.; E: reação de substituição de um dos átomos de oxigênio na molécula de ozônio por átomos de cloro.",2.04165,B,2014
 49,"O potencial brasileiro para transformar lixo em energia permanece subutilizado — apenas pequena parte dos resíduos brasileiros é utilizada para gerar energia. Contudo, bons exemplos são os aterros sanitários, que utilizam a principal fonte de energia ali produzida. Alguns aterros vendem créditos de carbono com base no Mecanismo de Desenvolvimento Limpo (MDL), do Protocolo de Kyoto. Essa fonte de energia subutilizada, citada no texto, é o","A: etanol, obtido a partir da decomposição da matéria orgânica por bactérias.; B: gás natural, formado pela ação de fungos decompositores da matéria orgânica.; C: óleo de xisto, obtido pela decomposição da matéria orgânica pelas bactérias anaeróbias.; D: gás metano, obtido pela atividade de bactérias anaeróbias na decomposição da matéria orgânica.; E: gás liquefeito de petróleo, obtido pela decomposição de vegetais presentes nos restos de comida.",0.51719,D,2014
 50,"É comum aos fotógrafos tirar fotos coloridas em ambientes iluminados por lâmpadas fluorescentes, que contêm uma forte composição de luz verde. A consequência desse fato na fotografia é que todos os objetos claros, principalmente os brancos, aparecerão esverdeados. Para equilibrar as cores, deve-se usar um filtro adequado para diminuir a intensidade da luz verde que chega aos sensores da câmera fotográfica. Na escolha desse filtro, utiliza-se o conhecimento da composição das cores-luz primárias: vermelho, verde e azul; e das cores-luz secundárias: amarelo = vermelho + verde, ciano = verde + azul e magenta = vermelho + azul. Na situação descrita, qual deve ser o filtro utilizado para que a fotografia apresente as cores naturais dos objetos?",A: Ciano.; B: Verde.; C: Amarelo.; D: Magenta.; E: Vermelho.,2.1268,D,2014
+51,"Para impedir a contaminação microbiana do suprimento de água, deve-se eliminar as emissões de efluentes e, quando necessário, tratá-lo com desinfetante. O ácido hipocloroso (HClO), produzido pela reação entre cloro e água, é um dos compostos mais empregados como desinfetante. Contudo, ele não atua somente como oxidante, mas também como um ativo agente de cloração. A presença de matéria orgânica dissolvida no suprimento de água clorada pode levar à formação de clorofórmio (CHCl3) e outras espécies orgânicas cloradas tóxicas. Visando eliminar da água o clorofórmio e outras moléculas orgânicas, o tratamento adequado é a","A: filtração, com o uso de filtros de carvão ativo.; B: fluoretação, pela adição de fluoreto de sódio.; C: coagulação, pela adição de sulfato de alumínio.; D: correção do pH, pela adição de carbonato de sódio.; E: floculação, em tanques de concreto com a água em movimento.",,A,2014
 52,"A talidomida é um sedativo leve e foi muito utilizado no tratamento de náuseas, comuns no início da gravidez. Quando foi lançada, era considerada segura para o uso de grávidas, sendo administrada como uma mistura racêmica composta pelos seus dois enantiômeros (R e S). Entretanto, não se sabia, na época, que o enantiômero S leva à malformação congênita, afetando principalmente o desenvolvimento normal dos braços e pernas do bebê. Essa malformação congênita ocorre porque esses enantiômeros",A: reagem entre si.; B: não podem ser separados.; C: não estão presentes em partes iguais.; D: interagem de maneira distinta com o organismo.; E: são estruturas com diferentes grupos funcionais.,0.78035,D,2014
+53,"Embora seja um conceito fundamental para a biologia, o termo “evolução” pode adquirir significados diferentes no senso comum. A ideia de que a espécie humana é o ápice do processo evolutivo é amplamente difundida, mas não é compartilhada por muitos cientistas. Para esses cientistas, a compreensão do processo citado baseia-se na ideia de que os seres vivos, ao longo do tempo, passam por",A: modificação de características.; B: incremento no tamanho corporal.; C: complexificação de seus sistemas.; D: melhoria de processos e estruturas.; E: especialização para uma determinada finalidade.,,A,2014
 54,"O biodiesel não é classificado como uma substância pura, mas como uma mistura de ésteres derivados dos ácidos graxos presentes em sua matéria-prima. As propriedades do biodiesel variam com a composição do óleo vegetal ou gordura animal que lhe deu origem, por exemplo, o teor de ésteres saturados é responsável pela maior estabilidade do biodiesel frente à oxidação, o que resulta em aumento da vida útil do biocombustível. O quadro ilustra o teor médio de ácidos graxos de algumas fontes oleaginosas. Qual das fontes oleaginosas apresentadas produziria um biodiesel de maior resistência à oxidação?",A: Milho.; B: Palma.; C: Canola.; D: Algodão.; E: Amendoim.,1.75228,B,2014
 55,"Uma pessoa, lendo o manual de uma ducha que acabou de adquirir para a sua casa, observa o gráfico, que relaciona a vazão na ducha com a pressão, medida em metros de coluna de água (mca). Nessa casa residem quatro pessoas. Cada uma delas toma um banho por dia, com duração média de 8 minutos, permanecendo o registro aberto com vazão máxima durante esse tempo. A ducha é instalada em um ponto seis metros abaixo do nível da lâmina de água, que se mantém constante dentro do reservatório. Ao final de 30 dias, esses banhos consumirão um volume de água, em litros, igual a",A: 69 120.; B: 17 280.; C: 11 520.; D: 8 640.; E: 2 880.,0.95877,C,2014
 56,"Diesel é uma mistura de hidrocarbonetos que também apresenta enxofre em sua composição. Esse enxofre é um componente indesejável, pois o trióxido de enxofre gerado é um dos grandes causadores da chuva ácida. Nos anos 1980, não havia regulamentação e era utilizado óleo diesel com 13 000 ppm de enxofre. Em 2009, o diesel passou a ter 1 800 ppm de enxofre (S1800) e, em seguida, foi inserido no mercado o diesel S500 (500 ppm). Em 2012, foi difundido o diesel S50, com 50 ppm de enxofre em sua composição. Atualmente, é produzido um diesel com teores de enxofre ainda menores. A substituição do diesel usado nos anos 1980 por aquele difundido em 2012 permitiu uma redução percentual de emissão de SO3 de","A: 86,2%.; B: 96,2%.; C: 97,2%.; D: 99,6%.; E: 99,9%.",0.97713,D,2014
@@ -262,20 +271,20 @@ alteração epigenética, pois são ocasionados por",A: aneuploidia do cromossom
 89,"Na década de 1990, células do cordão umbilical de recém-nascidos humanos começaram a ser guardadas por criopreservação, uma vez que apresentam alto potencial terapêutico em consequência de suas características peculiares. O poder terapêutico dessas células baseia-se em sua capacidade de",A: multiplicação lenta.; B: comunicação entre células.; C: adesão a diferentes tecidos.; D: diferenciação em células especializadas.; E: reconhecimento de células semelhantes.,1.3958,D,2014
 90,"As lentes fotocromáticas escurecem quando expostas à luz solar por causa de reações químicas reversíveis entre uma espécie incolor e outra colorida. Diversas reações podem ser utilizadas, e a escolha do melhor reagente para esse fim se baseia em três principais aspectos: (i) o quanto escurece a lente; (ii) o tempo de escurecimento quando exposta à luz solar; e (iii) o tempo de esmaecimento em ambiente sem forte luz solar. A transmitância indica a razão entre a quantidade de luz que atravessa o meio e a quantidade de luz que incide sobre ele. Durante um teste de controle para o desenvolvimento de novas lentes fotocromáticas, foram analisadas cinco amostras, que utilizam reagentes químicos diferentes. No quadro, são apresentados os resultados. Considerando os três aspectos, qual é a melhor amostra de lente fotocromática para se utilizar em óculos?",A: 1; B: 2; C: 3; D: 4; E: 5,1.10564,C,2014
 46,"Em uma flauta, as notas musicais possuem 
-frequências e comprimentos de onda (λ) muito bem 
+frequências e comprimentos de onda (lambda) muito bem 
 definidos. As figuras mostram esquematicamente 
 um tubo de comprimento L, que representa de forma 
 simplificada uma flauta, em que estão representados: 
 em A o primeiro harmônico de uma nota musical 
-(comprimento de onda λA), em B seu segundo harmônico 
-(comprimento de onda λB) e em C o seu terceiro 
-harmônico (comprimento de onda λC), onde λA > λB > λC.
+(comprimento de onda lambdaA), em B seu segundo harmônico 
+(comprimento de onda lambdaB) e em C o seu terceiro 
+harmônico (comprimento de onda lambdaC), onde lambdaA > lambdaB > lambdaC.
 L
 A
 B
 C
 Em função do comprimento do tubo, qual o comprimento 
-de onda da oscilação que forma o próximo harmônico?",A: L; B: L; C: L; D: L; E: 6L,2.2825,C,2015
+de onda da oscilação que forma o próximo harmônico?",A: L dividido por quatro; B: L dividido por cinco; C: L dividido por dois; D: L dividido por oito; E: 6L dividido por oito,2.2825,C,2015
 47,"Durante a aula, um professor apresentou uma 
 pesquisa nacional que mostrava que o consumo de sódio 
 pelos adolescentes brasileiros é superior ao determinado 
@@ -288,7 +297,7 @@ Nesses organismos, o desenvolvimento de ovos
 protegidos por casca rígida (pergaminácea ou calcárea) 
 possibilitou a conquista do ambiente terrestre.
 O surgimento da característica mencionada está 
-representado, no cladograma, pelo número",A: 1.; B: 2.; C: 3.; D: 4.; E: 5.,0.565,C,2015
+representado, no cladograma, pelo número",A: um.; B: dois.; C: três.; D: quatro.; E: cinco.,0.565,C,2015
 49,"Um eletricista projeta um circuito com três lâmpadas 
 incandescentes idênticas, conectadas conforme a figura. 
 Deseja-se que uma delas fique sempre acesa, por isso é 
@@ -302,15 +311,13 @@ Chave
 Bateria
 Assumindo que as lâmpadas obedeçam à Lei de Ohm, 
 com a chave fechada, a potência fornecida pela bateria, 
-em função de X, é:","A: 2
- X.; B: X.; C: 3
- X.; D: 2X.; E: 3X.",2.22439,C,2015
+em função de X, é:",A: dois dividido por três X.; B: X.; C: três dividido por dois X.; D: dois X.; E: três X.,2.22439,C,2015
 50,"O urânio é um elemento cujos átomos contêm 92 prótons, 
 92 elétrons e entre 135 e 148 nêutrons. O isótopo de 
 urânio 235U é utilizado como combustível em usinas 
 nucleares, onde, ao ser bombardeado por nêutrons, sofre 
 fissão de seu núcleo e libera uma grande quantidade 
-de energia (2,35×1010 kJ/mol). O isótopo 235U ocorre 
+de energia (2,35×1010 kilojoules/mol). O isótopo 235U ocorre 
 naturalmente em minérios de urânio, com concentração 
 de apenas 0,7%. Para ser utilizado na geração de 
 energia nuclear, o minério é submetido a um processo 
@@ -320,46 +327,25 @@ Em décadas anteriores, houve um movimento mundial
 para aumentar a geração de energia nuclear buscando 
 substituir, parcialmente, a geração de energia elétrica 
 a partir da queima do carvão, o que diminui a emissão 
-atmosférica de CO2 (gás com massa molar igual a 44 g/mol). 
+atmosférica de fórmula química do gás carbônico (gás com massa molar igual a 44 g/mol). 
 A queima do carvão é representada pela equação química:
-C (s) + O2 (g) → CO2 (g)       ∆H = −400 kJ/mol
-Qual é a massa de CO2, em toneladas, que deixa de ser 
+fórmula químida do carbono (sólido) + fórmula química do gás oxigênio (gasoso) → fórmula química do gás carbônico (gasoso)       delta H = −400 kilojoules/mol
+Qual é a massa de fórmula química do gás carbônico, em toneladas, que deixa de ser 
 liberada na atmosfera, para cada 100 g de pastilhas de 
 urânio enriquecido utilizadas em substituição ao carvão 
-como fonte de energia?","A: 2,10; B: 7,70; C: 9,00; D: 33,0; E: 300",1.56282,D,2015
-51,"O cobre presente nos fios elétricos e instrumentos 
-musicais é obtido a partir da ustulação do minério 
-calcosita (Cu2S). Durante esse processo, ocorre o 
-aquecimento desse sulfeto na presença de oxigênio, de 
-forma que o cobre fique “livre” e o enxofre se combine 
-com o O2 produzindo SO2, conforme a equação química:
-Cu2S (s) + O2 (g) ∆ 2 Cu (l) + SO2 (g)
-As massas molares dos elementos Cu e S são, 
-respectivamente, iguais a 63,5 g/mol e 32 g/mol.
-CANTO, E. L. Minerais, minérios, metais: de onde vêm?, para onde vão? 
-São Paulo: Moderna, 1996 (adaptado).
-Considerando que se queira obter 16 mols do metal em 
-uma reação cujo rendimento é de 80%, a   massa, em 
-gramas, do minério necessária para obtenção do cobre 
-é igual a",A: 955.; B: 1 018.; C: 1 590.; D: 2 035.; E: 3 180.,1.38225,C,2015
+como fonte de energia?",A: dois vírgula dez; B: sete vírgula setenta; C: nove vírgula zero zero; D: trinta e três vírgula zero; E: trezentos,1.56282,D,2015
+51,"O cobre presente nos fios elétricos e instrumentos musicais é obtido a partir da ustulação do minério calcosita (fórmula química do sulfeto de cobre(I)). Durante esse processo, ocorre o aquecimento desse sulfeto na presença de oxigênio, de forma que o cobre fique “livre” e o enxofre se combine com a fórmula química do gás oxigênio, produzindo a fórmula química do dióxido de enxofre, conforme a equação química:
+fórmula química do sulfeto de cobre(I) (s) + fórmula química do gás oxigênio (g) → 2 do elemento da fórmula química do cobre (l) + fórmula química do dióxido de enxofre (g)
+
+As massas molares do elemento da fórmula química do cobre e do elemento da fórmula química do enxofre são, respectivamente, iguais a 63,5 g/mol e 32 g/mol.
+
+Considerando que se queira obter 16 mols do metal em uma reação cujo rendimento é de 80%, a massa, em gramas, do minério necessária para obtenção do cobre é igual a",A: novecentos e cinquenta e cinco; B: mil e dezoito; C: mil e quinhentos e noventa; D: dois mil e trinta e cinco; E: três mil e cento e oitenta.,1.38225,C,2015
 52,"Sais de amônio são sólidos iônicos com alto ponto de fusão, muito mais solúveis em água que as aminas 
 originais e ligeiramente solúveis em solventes orgânicos apolares, sendo compostos convenientes para serem 
 usados em xaropes e medicamentos injetáveis. Um exemplo é a efedrina, que funde a 79 °C, tem um odor 
 desagradável e oxida na presença do ar atmosférico formando produtos indesejáveis. O cloridrato de efedrina funde a 
 217 °C, não se oxida e é inodoro, sendo o ideal para compor os medicamentos.
-OH
-OH
-CH
-CH
-NHCH
-+NH2CH3
-HCl
-Cl
-+
-Cloridrato de efedrina
-Efedrina
-−
-SOUTO, C. R. O.; DUARTE, H. C. Química da vida: aminas. Natal: EDUFRN, 2006.
+reação química entre a efedrina e o ácido clorídrico, resultando na formação do cloridrato de efedrina. À esquerda, está representada a molécula da efedrina, que possui um anel benzênico (um hexágono com alternância de ligações duplas), ligado a uma cadeia lateral com dois carbonos. O primeiro carbono da cadeia contém um grupo hidroxila voltado para frente e um grupo metila para trás, enquanto o segundo carbono possui um grupo amina apontando para trás. No centro da imagem, aparece um sinal de adição (+) com a molécula de hidróxido de cloreto. À direita, está o produto da reação: o cloridrato de efedrina. A estrutura permanece praticamente a mesma, exceto pela modificação na amina, que agora está protonada e representada como um grupo amônio, ligado a um íon cloreto.
 De acordo com o texto, que propriedade química das aminas possibilita a formação de sais de amônio estáveis, 
 facilitando a manipulação de princípios ativos?",A: Acidez.; B: Basicidade.; C: Solubilidade.; D: Volatilidade.; E: Aromaticidade.,1.70151,B,2015
 53,"Além de ser uma prática ilegal, a adulteração de combustíveis é prejudicial ao meio ambiente, ao governo e, 
@@ -377,17 +363,17 @@ sem alteração.; D: não sofrerá alteração com a introdução do bloquinho d
 a um aumento em torno de 10% no volume de água.; E: subirá em torno de 90% do seu valor inicial com a introdução do bloquinho de gelo e, após seu derretimento, o 
 nível descerá apenas 10% do valor inicial.",2.263,C,2015
 55,"A rede elétrica de uma residência tem tensão de 
-110 V e o morador compra, por engano, uma lâmpada 
-incandescente com potência nominal de 100 W e tensão 
-nominal de 220 V.
-Se essa lâmpada for ligada na rede de 110 V, o que 
+110 Volts e o morador compra, por engano, uma lâmpada 
+incandescente com potência nominal de 100 Watts e tensão 
+nominal de 220 Volts.
+Se essa lâmpada for ligada na rede de 110 Volts, o que 
 acontecerá?","A: A lâmpada brilhará normalmente, mas como a tensão 
 é a metade da prevista, a corrente elétrica será o 
 dobro da normal, pois a potência elétrica é o produto 
 de tensão pela corrente.; B: A lâmpada não acenderá, pois ela é feita para trabalhar 
-apenas com tensão de 220 V, e não funciona com 
+apenas com tensão de 220 Volts, e não funciona com 
 tensão abaixo desta.; C: A lâmpada irá acender dissipando uma potência de 
-50 W, pois como a tensão é metade da esperada, a 
+50 Watts, pois como a tensão é metade da esperada, a 
 potência também será reduzida à metade.; D: A lâmpada irá brilhar fracamente, pois com a metade 
 da tensão nominal, a corrente elétrica também será 
 menor e a potência dissipada será menos da metade 
@@ -427,10 +413,10 @@ sem que esse precise ser removido, formando a imagem
 correta sobre a retina (R).
 O comportamento de um feixe de luz incidindo no olho 
 que possui um implante de lentes fácicas para correção 
-do problema de visão apresentado é esquematizado por",A: LF     C               R; B: LF     C               R; C: LF     C               R; D: LF     C               R; E: LF     C               R,1.82358,B,2015
+do problema de visão apresentado é esquematizado por","A: Um feixe de luz paralelo atinge a lente fácia (LF) e é convergido antes de alcançar a córnea (C). Ao passar pela córnea, os raios de luz continuam convergindo e se encontram exatamente sobre a retina (R), onde a imagem se forma com nitidez.; B: Um feixe de luz paralelo atravessa a lente fácia (LF), sendo levemente convergido. Ao passar pela córnea (C), os raios convergem ainda mais e se cruzam antes de chegar à retina (R), formando o ponto de foco antes da retina.; C: O feixe de luz paralelo é desviado de forma divergente ao passar pela lente fácia (LF). Depois, ao atravessar a córnea (C), os raios convergem, mas continuam ligeiramente abertos ao chegarem à retina (R), ou seja, o foco se formaria depois da retina.; D: Os raios de luz paralelos são fortemente convergidos pela lente fácia (LF) e ainda mais pela córnea (C), cruzando-se bem antes da retina (R), indicando que o ponto focal está muito à frente da retina.; E: O feixe de luz permanece praticamente paralelo após passar pela lente fácia (LF) e também após atravessar a córnea (C), chegando à retina (R) ainda como feixe paralelo, sem convergência, ou seja, sem formação de imagem focada sobre a retina.",1.82358,B,2015
 59,"O papel tem na celulose sua matéria-prima, e uma das etapas de sua produção é o branqueamento, que visa 
 remover a lignina da celulose. Diferentes processos de branqueamento usam, por exemplo, cloro (Cl2), hipoclorito 
-de sódio (NaClO), oxigênio (O2), ozônio (O3) ou peróxido de hidrogênio (H2O2). Alguns processos de branqueamento 
+de sódio (NaClO), oxigênio (fórmula química do gás oxigênio), ozônio (O3) ou peróxido de hidrogênio (H2O2). Alguns processos de branqueamento 
 levam à formação de compostos organoclorados. São apresentadas as estruturas de um fragmento da lignina e do 
 tetracloroguaiacol, um dos organoclorados formados no processo de branqueamento.
 CH O
@@ -473,8 +459,7 @@ CI
 CI
 OCH
 Tetracloroguaiacol
-SANTOS, C. P. et al. Papel: como se fabrica? Química Nova na Escola, n. 14, 2001 (adaptado).
-Os reagentes capazes de levar à formação de organoclorados no processo citado são",A: O2 e O3.; B: Cl2 e O2.; C: H2O2 e Cl2.; D: NaClO e O3.; E: NaClO e Cl2.,2.6728,E,2015
+Os reagentes capazes de levar à formação de organoclorados no processo citado são",A: fórmula química do gás oxigênio e fórmula química do ozônio; B: fórmula química do gás cloro e fórmula química do gás oxigênio; C: fórmula química do peróxido de hidrogênio e fórmula química do gás cloro; D: fórmula química do hipoclorito de sódio e fórmula química do ozônio; E: fórmula química do hipoclorito de sódio e fórmula química do gás cloro.,2.6728,E,2015
 60,"A remoção de petróleo derramado em ecossistemas 
 marinhos é complexa e muitas vezes envolve a adição de 
 mais sustâncias ao ambiente. Para facilitar o processo de 
@@ -484,8 +469,6 @@ a esse tipo de impacto. Eles verificaram que algumas
 dessas espécies utilizam as moléculas de hidrocarbonetos 
 como fonte energética, atuando como biorremediadores, 
 removendo o óleo do ambiente.
-KREPSKY, N.; SILVA SOBRINHO, F.; CRAPEZ, M. A. C. 
-Ciência Hoje, n. 223, jan.-fev. 2006 (adaptado).
 Para serem eficientes no processo de biorremediação 
 citado, as espécies escolhidas devem possuir","A: células flageladas, que capturem as partículas de 
 óleo presentes na água.; B: altas taxas de mutação, para se adaptarem ao 
@@ -495,19 +478,17 @@ bactérias se contaminem com o óleo.; E: capacidade de fotossíntese, que possi
 de oxigênio para a renovação do ambiente poluído.",0.66067,C,2015
 61,"Os calcários são materiais compostos por carbonato 
 de cálcio, que podem atuar como sorventes do dióxido 
-de enxofre (SO2), um importante poluente atmosférico. 
+de enxofre, um importante poluente atmosférico. 
 As reações envolvidas no processo são a ativação do 
-calcário, por meio de calcinação, e a fixação do SO2 com 
+calcário, por meio de calcinação, e a fixação do dióxido 
+de enxofre com 
 a formação de um sal de cálcio, como ilustrado pelas 
 equações químicas simplificadas.
-CaCO3 
-calor  CaO + CO2
-CaO + SO2 + 1
-2  O2 
- Sal de cálcio
+fórmula química do carbonato de cálcio → calor / 2, fórmula química do óxido de cálcio + fórmula química do dióxido de carbono
+fórmula química do óxido de cálcio + fórmula química do dióxido de enxofre + 1/2 fórmula química do gás oxigênio → Sal de cálcio
 Considerando-se as reações envolvidas nesse processo 
 de dessulfurização, a fórmula química do sal de cálcio 
-corresponde a",A: CaSO3.; B: CaSO4.; C: CaS2O8.; D: CaSO2.; E: CaS2O7.,0.55445,B,2015
+corresponde a",A: fórmula química do sulfito de cálcio; B: fórmula química do sulfato de cálcio; C: fórmula química do persulfato de cálcio; D: fórmula química do hipossulfito de cálcio; E: fórmula química do pirossulfato de cálcio,0.55445,B,2015
 62,"Uma enzima foi retirada de um dos órgãos do sistema 
 digestório de um cachorro e, após ser purificada, foi 
 diluída em solução fisiológica e distribuída em três tubos 
@@ -515,7 +496,7 @@ de ensaio com os seguintes conteúdos:
 •	 Tubo 1: carne
 •	 Tubo 2: macarrão
 •	 Tubo 3: banha
-Em todos os tubos foi adicionado ácido clorídrico (HCl), 
+Em todos os tubos foi adicionado ácido clorídrico, 
 e o pH da solução baixou para um valor próximo a 2. Além 
 disso, os tubos foram mantidos por duas horas a uma 
 temperatura de 37 °C. A digestão do alimento ocorreu 
@@ -535,17 +516,7 @@ igual, em magnitude, à força gravitacional que o buraco
 negro exerce sobre o objeto.
 A partir do conhecimento do período de rotação, da 
 distância média e da constante gravitacional, G, a massa 
-do buraco negro é","A: 4p2R 2
-GT 
-.; B: p2R 3
-2GT 
-.; C: 2p2R 3
-GT 
-.; D: 4p2R 3
-GT 
-.; E: p2R 5
-GT 
-.",1.74175,D,2015
+do buraco negro é",A: Quatro pi ao quadrado R ao cubo sobre G T ao quadrado; B: Pi ao quadrado R ao cubo sobre dois G T ao quadrado; C: Dois pi ao quadrado R ao cubo sobre G T ao quadrado; D: Quatro pi ao quadrado R ao cubo sobre G T ao quadrado; E: Pi ao quadrado R ao cubo sobre G T ao quadrado,1.74175,D,2015
 64,"As superbactérias respondem por um número crescente de infecções e mortes em todo o mundo. O termo 
 superbactérias é atribuído às bactérias que apresentam resistência a praticamente todos os antibióticos. Dessa forma, 
 no organismo de um paciente, a população de uma espécie bacteriana patogênica pode ser constituída principalmente 
@@ -553,37 +524,11 @@ por bactérias sensíveis a antibióticos usuais e por um número reduzido de su
 intercâmbio de material genético, tornaram-se resistentes aos antibióticos existentes.
 FERREIRA, F. A.; CRUZ, R. S.; FIGUEIREDO, A. M. S. Superbactérias: o problema mundial da resistência a antibióticos. Ciência Hoje, n. 287, nov. 2011 (adaptado).
 Qual figura representa o comportamento populacional das bactérias ao longo de uma semana de tratamento 
-com um antibiótico comum?","A: 1      2      3      4     5      6      7
-Dias de tratamento
-Densidade populacional
-I
-II
-I - Bactérias sensíveis ao antibiótico
-II -  Bactérias resistentes ao antibiótico; B: 1      2      3      4     5      6      7
-I
-II
-Dias de tratamento
-Densidade populacional
-I - Bactérias sensíveis ao antibiótico
-II -  Bactérias resistentes ao antibiótico; C: 1      2      3      4     5      6      7
-I
-II
-Dias de tratamento
-Densidade populacional
-I - Bactérias sensíveis ao antibiótico
-II -  Bactérias resistentes ao antibiótico; D: 1      2      3      4     5      6      7
-I
-II
-Dias de tratamento
-Densidade populacional
-I - Bactérias sensíveis ao antibiótico
-II -  Bactérias resistentes ao antibiótico; E: 1      2      3      4     5      6      7
-I
-II
-Dias de tratamento
-Densidade populacional
-I - Bactérias sensíveis ao antibiótico
-II -  Bactérias resistentes ao antibiótico",0.80753,B,2015
+com um antibiótico comum?","A: A curva I (sensíveis) começa alta no dia 1 e diminui rapidamente ao longo dos dias, ficando quase zero no final do tratamento.A curva II (resistentes) começa baixa e sobe continuamente, ultrapassando a curva I em densidade a partir do quarto dia de tratamento.; B:A curva I (sensíveis) começa alta e diminui gradualmente até quase zero no dia 7.
+A curva II (resistentes) começa baixa e aumenta continuamente, cruzando a curva I por volta do terceiro dia de tratamento.; C: A curva I (sensíveis) começa alta e diminui continuamente, mantendo-se acima da curva II ao longo de toda a semana.
+A curva II (resistentes) permanece baixa, aumentando levemente, mas sem ultrapassar a curva I em nenhum momento.; D: A curva I (sensíveis) começa alta e diminui fortemente ao longo dos dias, aproximando-se de zero no final da semana.
+A curva II (resistentes) se mantém constante e baixa durante toda a semana, sem mudanças significativas.; E: A curva I (sensíveis) se mantém constante e baixa durante toda a semana, sem mudanças.
+A curva II (resistentes) começa baixa e sobe continuamente ao longo dos dias, ultrapassando visivelmente a curva I.",0.80753,B,2015
 65,"Em altos-fornos siderúrgicos, as temperaturas acima 
 de 600 °C são mensuradas por meio de pirômetros óticos. 
 Esses dispositivos apresentam a vantagem de medir a 
@@ -614,7 +559,7 @@ normal, cujo pai sofria de fenilcetonúria, devido à
 mesma mutação no gene PAH encontrada em um dos 
 alelos da mulher.
 Qual a probabilidade de a quarta criança gerada por 
-esses pais apresentar fenilcetonúria?","A: 0%; B: 12,5%; C: 25%; D: 50%; E: 75%",2.54187,C,2015
+esses pais apresentar fenilcetonúria?",A: zero por cento; B: doze vírgula cinco por cento; C: vinte e cinco por cento; D: cinquenta por cento; E: setenta e cinco por cento,2.54187,C,2015
 67,"Num sistema de freio convencional, as rodas do 
 carro travam e os pneus derrapam no solo, caso a força 
 exercida sobre o pedal seja muito intensa. O sistema 
@@ -631,7 +576,7 @@ já o carro 2 trava as rodas, de maneira que a força de
 atrito efetiva é a cinética. Considere g = 10 m/s2.
 As distâncias, medidas a partir do ponto em que iniciam 
 a frenagem, que os carros 1 (d1) e 2 (d2) percorrem até 
-parar são, respectivamente,","A: d1 = 45 m e d2 = 60 m.; B: d1 = 60 m e d2 = 45 m.; C: d1 = 90 m e d2 = 120 m.; D: d1 = 5,8×102 m e d2 = 7,8×102 m.; E: d1 = 7,8×102 m e d2 = 5,8×102 m.",1.56301,A,2015
+parar são, respectivamente,",A: d₁ = quarenta e cinco metros e d₂ = sessenta metros; B: d₁ = sessenta metros e d₂ = quarenta e cinco metros; C: d₁ = noventa metros e d₂ = cento e vinte metros; D: d₁ = cinco vírgula oito vezes dez elevado a sete metros e d₂ = sete vírgula oito vezes dez elevado a sete metros; E: d₁ = sete vírgula oito vezes dez elevado a sete metros e d₂ = cinco vírgula oito vezes dez elevado a sete metros,1.56301,A,2015
 68,"Cinco indústrias de ramos diferentes foram instaladas 
 ao longo do curso de um rio. O descarte dos efluentes 
 dessas indústrias acarreta impacto na qualidade de suas 
@@ -656,45 +601,23 @@ básicas é a",A: primeira.; B: segunda.; C: terceira.; D: quarta.; E: quinta.,1
 69,"O poli(ácido lático) ou PLA é um material de interesse tecnológico por ser um polímero biodegradável e bioabsorvível. 
 O ácido lático, um metabólito comum no organismo humano, é a matéria-prima para produção do PLA, de acordo com 
 a equação química simplificada:
-Ácido d/l-lático
-100 ≤ n ≤ 10 000
+fórmula química do Ácido d/l-lático
 polimerização
-HO
-HO
-HO
-O
-O
-O
-HO
-O
-CH
-CH
-CH
-CH
-O
-O
-n
+fórmula química do 
 Que tipo de polímero de condensação é formado nessa reação?",A: Poliéster.; B: Polivinila.; C: Poliamida.; D: Poliuretana.; E: Policarbonato.,1.17204,A,2015
 70,"O alumínio é um metal bastante versátil, pois, a partir dele, podem-se confeccionar materiais amplamente utilizados 
 pela sociedade. A obtenção do alumínio ocorre a partir da bauxita, que é purificada e dissolvida em criolita fundida 
-(Na3AlF6) e eletrolisada a cerca de 1 000 °C. Há liberação do gás dióxido de carbono (CO2), formado a partir da reação 
+(Na3AlF6) e eletrolisada a cerca de 1 000 °C. Há liberação do gás dióxido de carbono (fórmula química do gás carbônico), formado a partir da reação 
 de um dos produtos da eletrólise com o material presente nos eletrodos. O ânodo é formado por barras de grafita 
 submergidas na mistura fundida. O cátodo é uma caixa de ferro coberta de grafita. A reação global do processo é:
-2 Al2O3 (l) + 3 C (s) → 4 Al (l) + 3 CO2 (g)
-Na etapa de obtenção do alumínio líquido, as reações que ocorrem no cátodo e ânodo são:","A: cátodo: Al3+ + 3 e− → Al
-ânodo 2 O2− → O2 + 4 e−; C: + O2 → CO2; B: cátodo 2 O2− → O2 + 4 e−; C: + O2 → CO2
-ânodo: Al3+ + 3 e− → Al; C: cátodo Al3+ + 3 e− → Al
-2 O2− → O2 + 4 e−
-ânodo: C + O2 → CO2; D: cátodo Al3+ + 3 e− → Al; C: + O2 → CO2
-ânodo: 2 O2− → O2 + 4 e−; E: cátodo: 2 O2− → O2 + 4 e−
-ânodo
-Al3+ + 3 e− → Al; C: + O2 → CO2",2.11971,A,2015
+fórmula química do óxido de alumínio (l) + 3 do elemento da fórmula química do carbono (s) → 4 do elemento da fórmula química do alumínio (l) + 3 fórmula química do gás carbônico (g)
+Na etapa de obtenção do alumínio líquido, as reações que ocorrem no cátodo e ânodo são:","A: cátodo: fórmula química do alumínio três mais, mais três elétrons, formando fórmula química do alumínio. ânodo: duas íon óxido dois menos, formando fórmula química do gás oxigênio mais quatro elétrons. Fórmula química do Carbono mais fórmula química do gás oxigênio, formando fórmula química de gás carbônico.; B: cátodo: dois íon óxido dois menos, formando fórmula química de gás oxigênio mais quatro elétrons. fórmula química de carbono mais fórmula química de gás oxigênio, formando fórmula química de gás carbônico. Ânodo: fórmula química de íon alumínio três mais, mais três elétrons, formando fórmula química de alumínio metálico.; C: cátodo: fórmula química de íon alumínio três mais, mais três elétrons, formando fórmula química de alumínio metálico. Ânodo: fórmula química de dois íon óxido dois menos, formando fórmula química de gás oxigênio mais quatro elétrons. fórmula química de carbono mais fórmula química de gás oxigênio, formando fórmula química de gás carbônico.; D: cátodo: fórmula química íon alumínio três mais, mais três elétrons, formando fórmula química alumínio. Ânodo: fórmula química carbono mais fórmula química gás oxigênio, formando fórmula química de gás carbônico. fórmula química dois íon óxido dois menos, formando fórmula química gás oxigênio mais quatro elétrons.; E: cátodo: fórmula química de dois íon óxido dois menos, formando fórmula química de gás oxigênio mais quatro elétrons. Ânodo: fórmula química de íon alumínio três mais, mais três elétrons, formando fórmula química de alumínio. fórmula química de carbono mais gás fórmula química de oxigênio, formando fórmula química de gás carbônico.",2.11971,A,2015
 71,"O quadro apresenta a composição do petróleo.
 Fração
 Faixa de tamanho 
 das moléculas
 Faixa de ponto de 
-ebulição (°C)
+ebulição (graus celsius)
 Usos
 Gás
 C1 a C5
@@ -720,44 +643,18 @@ Asfalto
 maior que C30
 resíduos pastosos
 pavimentação
-BROWN, T. L. et al. Química: a ciência central. São Paulo: Person Prentice Hall, 2005.
 Para a separação dos constituintes com o objetivo de produzir a gasolina, o método a ser utilizado é a",A: filtração.; B: destilação.; C: decantação.; D: precipitação.; E: centrifugação.,0.6933,B,2015
 72,"Um gel vaginal poderá ser um recurso para as mulheres na prevenção contra a aids. Esse produto tem como 
 princípio ativo um composto que inibe a transcriptase reversa viral.
 Essa ação inibidora é importante, pois a referida enzima","A: corta a dupla hélice do DNA, produzindo um molde para o RNA viral.; B: produz moléculas de DNA viral que vão infectar células sadias.; C: polimeriza molécula de DNA, tendo como molde o RNA viral.; D: promove a entrada do vírus da aids nos linfócitos T.; E: sintetiza os nucleotídeos que compõem o DNA viral.",1.82821,C,2015
 73,"O Nylon® é um polímero (uma poliamida) obtido pela reação do ácido adípico com a hexametilenodiamina, como 
 indicado no esquema reacional.
-O
-O
-HO
-HO
-N
-N
-H
-H
-O
-O
-(
-)
-(
-)
-(
-)
-(
-)
-4
-+
-+
-H N
-NH
-n
-n
 ácido hexanodioico
 (ácido adípico)
 1,6-diamino-hexano
 (hexametilenodiamina)
 Nylon 6,6
-H2O
+fórmula química da água
 Na época da invenção desse composto, foi proposta uma nomenclatura comercial, baseada no número de átomos 
 de carbono do diácido carboxílico, seguido do número de carbonos da diamina.
 De acordo com as informações do texto, o nome comercial de uma poliamida resultante da reação do ácido butanodioico 
@@ -777,19 +674,14 @@ Concentração de ácido acético (mol/L)
 0,150
 0,400
 0,700
-RIZZON, L. A. Sistema de produção de vinagre.
-Disponível em: www.sistemasdeproducao.cnptia.embrapa.br. 
- Acesso em: 14 ago. 2012 (adaptado).
 A amostra de vinagre que se encontra dentro do limite de 
-concentração tolerado é a",A: 1.; B: 2.; C: 3.; D: 4.; E: 5.,1.86626,E,2015
+concentração tolerado é a",A: um.; B: dois.; C: três.; D: quatro.; E: cinco.,1.86626,E,2015
 75,"Os parasitoides são insetos diminutos, que têm 
 hábitos bastante peculiares: suas larvas se desenvolvem 
 dentro do corpo de outros animais. Em geral, cada 
 parasitoide ataca hospedeiros de determinada espécie 
 e, por isso, esses organismos vêm sendo amplamente 
 usados para o controle biológico de pragas agrícolas.
-SANTO, M. M. E. et al. Parasitoides: insetos benéficos e cruéis. 
-Ciência Hoje, n. 291, abr. 2012 (adaptado).
 O uso desses insetos na agricultura traz benefícios 
 ambientais, pois diminui o(a)",A: tempo de produção agrícola.; B: diversidade de insetos-praga.; C: aplicação de inseticidas tóxicos.; D: emprego de fertilizantes agrícolas.; E: necessidade de combate a ervas daninhas.,0.28914,C,2015
 76,"A figura representa uma embalagem cartonada e 
@@ -801,40 +693,37 @@ alumínio......
 polietileno...
 papel...........
 polietileno....
-NASCIMENTO, R. M. M. et al. Embalagem cartonada longa vida: lixo ou luxo? 
-Química Nova na Escola, n. 25, maio 2007 (adaptado).
 A restrição citada deve-se ao fato de a","A: embalagem aberta se expandir pela pressão do vapor 
 formado em seu interior.; B: camada de polietileno se danificar, colocando o 
 alumínio em contato com o alimento.; C: fina camada de alumínio blindar a radiação, não 
 permitindo que o alimento se aqueça.; D: absorção de radiação pelo papel, que se aquece e 
 pode levar à queima da camada de polietileno.; E: geração de centelhas na camada de alumínio, 
 que pode levar à queima da camada de papel e de 
-polietileno.
-	",1.14246,E,2015
+polietileno.",1.14246,E,2015
 77,"No manual de uma torneira elétrica são fornecidas 
 instruções básicas de instalação para que o produto 
 funcione corretamente:
 •	
 Se a torneira for conectada à caixa-d’água 
 domiciliar, a pressão da água na entrada da 
-torneira deve ser no mínimo 18 kPa e no máximo 
-38 kPa.
+torneira deve ser no mínimo 18 kilo pascal e no máximo 
+38 kilo pascal.
 •	
-Para pressões da água entre 38 kPa e 75 kPa 
+Para pressões da água entre 38 kilo pascal e 75 kilo pascal 
 ou água proveniente diretamente da rede pública, 
 é necessário utilizar o redutor de pressão que 
 acompanha o produto.
 •	
 Essa torneira elétrica pode ser instalada em um 
 prédio ou em uma casa. 
-Considere a massa específica da água 1 000 kg/m3 e a 
-aceleração da gravidade 10 m/s2.
+Considere a massa específica da água 1 000 quilograma/metro cúbico e a 
+aceleração da gravidade 10 metro por segundo ao quadrado.
 Caixa-d’água
 Altura h
 Torneira elétrica
 Para que a torneira funcione corretamente, sem o uso 
 do redutor de pressão, quais deverão ser a mínima e a 
-máxima altura entre a torneira e a caixa-d’água?","A: 1,8 m e 3,8 m; B: 1,8 m e 7,5 m; C: 3,8 m e 7,5 m; D: 18 m e 38 m; E: 18 m e 75 m",1.42495,A,2015
+máxima altura entre a torneira e a caixa-d’água?",A: um vírgula oito metros e três vírgula oito metros; B: um vírgula oito metros e sete vírgula cinco metros; C: três vírgula oito metros e sete vírgula cinco metros; D: dezoito metros e trinta e oito metros; E: dezoito metros e setenta e cinco metros,1.42495,A,2015
 78,"De acordo com estatísticas do Ministério da 
 Saúde, cerca de 5% das pessoas com dengue 
 hemorrágica morrem. A dengue hemorrágica tem como 
@@ -848,7 +737,6 @@ resultado leucopenia (diminuição do número de glóbulos
 brancos), linfocitose (aumento do número de linfócitos), 
 aumento do hematócrito e trombocitopenia (contagem de 
 plaquetas abaixo de 100 000/mm3).
-Disponível em: www.ciencianews.com.br. Acesso em: 28 fev. 2012 (adaptado).
 Relacionando os sintomas apresentados pelo paciente 
 com dengue hemorrágica e os possíveis achados do 
 hemograma, constata-se que","A: as manifestações febris ocorrem em função da 
@@ -862,8 +750,7 @@ que são responsáveis pelo transporte de oxigênio.; D: as manifestações hemo
 envolvidas na cascata de coagulação sanguínea.; E: os sangramentos observados ocorrem em função 
 da linfocitose, uma vez que os linfócitos são 
 responsáveis pela manutenção da integridade dos 
-vasos sanguíneos.
-	",0.70934,D,2015
+vasos sanguíneos.",0.70934,D,2015
 79,"O caramujo gigante africano, Achatina fulica, é uma espécie exótica que tem despertado o interesse das 
 autoridades brasileiras, uma vez que tem causado danos ambientais e prejuízos econômicos à agricultura. 
 A introdução da espécie no Brasil ocorreu clandestinamente, com o objetivo de ser utilizada na alimentação humana. 
@@ -898,10 +785,8 @@ fe
 0,78
 0,76
 ρ (g/cm³)
- 
-Disponível em: www.handymath.com. Acesso em: 8 ago. 2012.
-Suponha que, em uma inspeção de rotina realizada em determinado posto, tenha-se verificado que 50,0 cm3 de álcool 
-combustível tenham massa igual a 45,0 g. Qual é a fração percentual de etanol nessa mistura?",A: 7%; B: 10%; C: 55%; D: 90%; E: 93%,1.3471,C,2015
+Suponha que, em uma inspeção de rotina realizada em determinado posto, tenha-se verificado que 50,0 centímetros cúbicos de álcool 
+combustível tenham massa igual a 45,0 g. Qual é a fração percentual de etanol nessa mistura?",A: sete por cento; B: dez por cento; C: cinquenta e cinco por cento; D: noventa por cento; E: noventa e três por cento,1.3471,C,2015
 81,"A 
 toxina 
 botulínica 
@@ -916,8 +801,6 @@ para melhorar a qualidade de vida das pessoas com
 problemas físicos e/ou estéticos, atenuando problemas 
 como o blefaroespasmo, que provoca contrações 
 involuntárias das pálpebras.
-BACHUR, T. P. R. et al. Toxina botulínica: de veneno a tratamento. Revista Eletrônica 
-Pesquisa Médica, n. 1, jan.-mar. 2009 (adaptado).
 O alívio dos sintomas do blefaroespasmo é consequência 
 da ação da toxina modificada sobre o tecido","A: glandular, uma vez que ela impede a produção de 
 secreção de substâncias na pele.; B: muscular, uma vez que ela provoca a paralisia das 
@@ -932,20 +815,12 @@ conforme representado. Esse alcaloide é encontrado em
 grande quantidade nas sementes de café e nas folhas de 
 chá-verde. Uma xícara de café contém, em média, 80 mg 
 de cafeína.
-CH3
-CH
-N
-N
-N
-N
-O
-O
-H C
+CH3 fórmula química do hidrogênio fórmula química do carbono fórmula química do oxigênio fórmula química do nitrogênio
 MARIA, C. A. B.; MOREIRA, R. F. A. Cafeína: revisão sobre métodos de análise. 
 Química Nova, n. 1, 2007 (adaptado).
 Considerando que a xícara descrita contém um volume 
 de 200 mL de café, a concentração, em mol/L, de cafeína 
-nessa xícara é mais próxima de:","A: 0,0004.; B: 0,002.; C: 0,4.; D: 2.; E: 4.",1.12376,B,2015
+nessa xícara é mais próxima de:",A: zero vírgula zero zero zero quatro; B: zero vírgula zero zero dois; C: zero vírgula quatro; D: dois; E: quatro,1.12376,B,2015
 83,"A reprodução vegetativa de plantas por meio de 
 estacas é um processo natural. O homem, observando 
 esse processo, desenvolveu uma técnica para propagar 
@@ -970,8 +845,7 @@ para outro tanque com uma solução de álcool.
 IV.	 Coloque os pedaços sedimentados em outro 
 tanque com solução de sal e agite bem.
 Qual propriedade da matéria possibilita a utilização do 
-procedimento descrito?","A: Massa.; B: Volume.; C: Densidade.; D: Porosidade.; E: Maleabilidade.
-	",0.33164,C,2015
+procedimento descrito?",A: Massa.; B: Volume.; C: Densidade.; D: Porosidade.; E: Maleabilidade.,0.33164,C,2015
 85,"Para irrigar sua plantação, um produtor rural construiu 
 um reservatório a 20 metros de altura a partir da barragem 
 de onde será bombeada a água. Para alimentar o motor 
@@ -983,7 +857,7 @@ Porém, entre as 11 horas e 30 minutos e as 12 horas e
 Considere a aceleração da gravidade igual a 10 m/s2 e 
 uma eficiência de transferência energética de 100%.
 Qual é o volume de água, em litros, bombeado para o 
-reservatório no intervalo de tempo citado?",A: 150; B: 250; C: 450; D: 900; E: 1 440,1.81809,D,2015
+reservatório no intervalo de tempo citado?",A: cento e cinquenta; B: duzentos e cinquenta; C: quatrocentos e cinquenta; D: novecentos; E: mil e quatrocentos e quarenta,1.81809,D,2015
 86,"A fotografia feita sob luz polarizada é usada por 
 dermatologistas para diagnósticos. Isso permite ver 
 detalhes da superfície da pele que não são visíveis com o 
@@ -1013,7 +887,7 @@ Considere um feixe de luz não polarizada proveniente
 de um meio com índice de refração igual a 1, que incide 
 sobre uma lâmina e faz um ângulo de refração θr de 30°.
 Nessa situação, qual deve ser o índice de refração da 
-lâmina para que o feixe refletido seja polarizado?",A: √3; B: √3/3; C: 2; D: 1/2; E:√3/2,1.7766,A,2015
+lâmina para que o feixe refletido seja polarizado?",A: raiz quadrada de três; B: raiz quadrada de três sobre três; C: dois; D: um meio; E: raiz quadrada de três sobre dois,1.7766,A,2015
 87,"Na natureza a matéria é constantemente transformada 
 por meio dos ciclos biogeoquímicos. Além do ciclo 
 da água, existem os ciclos do carbono, do enxofre, do 
@@ -1044,22 +918,15 @@ Pêndulo
 Massa 
 Comprimento 
 do barbante
-A 
-M 
- L
-M  
- L
-M 
- 2L
-2M 
-L
-M 
-L
- 2M 
-L
-Quais pêndulos, além desse, passaram também a oscilar?","A: 1, 2, 3, 4 e 5.; B: 1, 2 e 3.; C: 1 e 4.; D: 1 e 5.; E: 3 e 4.",4.52893,D,2015
-90,"CO2
-C6H12O6
+A M L
+um M L
+dois M dividido por dois dois L
+três dois M L dividido por dois
+quatro M dividido por  dois L dividido por dois
+cinco dois M L
+Quais pêndulos, além desse, passaram também a oscilar?","A: um, dois, três, quatro e cinco; B: um, dois e três; C: um e quatro; D: um e cinco; E: três e quatro",4.52893,D,2015
+90,"fórmula química do gás carbônico
+fórmula química da glicose
 No esquema representado, o processo identificado pelo 
 número 2 é realizado por",A: seres herbívoros.; B: fungos fermentadores.; C: bactérias heterótrofas.; D: organismos produtores.; E: microrganismos decompositores.,1.02035,D,2015
 46,"Os métodos empregados nas análises químicas 
@@ -1068,7 +935,7 @@ composição dos diversos materiais presentes no meio
 ambiente. É comum, na análise de metais presentes 
 em amostras ambientais, como água de rio ou de 
 mar, a adição de um ácido mineral forte, normalmente 
-o ácido nítrico (HNO3), com a finalidade de impedir a
+o ácido nítrico, com a finalidade de impedir a
 precipitação de compostos pouco solúveis desses 
 metais ao longo do tempo.
 Na ocorrência de precipitação, o resultado da análise 
@@ -1086,9 +953,6 @@ de crescimento lento e em risco de extinção, mas agora
 de tumores de ovário, mama e pulmão. Seu mecanismo 
 de ação antitumoral envolve sua ligação à tubulina 
 interferindo com a função dos microtúbulos.
-KRETZER, I. F. Terapia antitumoral combinada de derivados do paclitaxel e 
-etoposídeo associados à nanoemulsão lipídica rica em colesterol - LDE.
-Disponível em: www.teses.usp.br. Acesso em: 29 fev. 2012 (adaptado).
 De acordo com a ação antitumoral descrita, que função 
 celular é diretamente afetada pelo paclitaxel?",A: Divisão celular.; B: Transporte passivo.; C: Equilíbrio osmótico.; D: Geração de energia.; E: Síntese de proteínas.,2.01306,C,2016
 48,"Para a instalação de um aparelho de ar-condicionado, 
@@ -1124,7 +988,7 @@ Em função da disponibilidade, foi preciso substituir os
 capacitores defeituosos por um único capacitor que 
 cumpria a mesma função.
 Qual foi a capacitância, medida em μF, do capacitor 
-utilizado pelo cosmonauta?","A: 0,10; B: 0,50; C: 2,1; D: 10; E: 21",1.79508,C,2016
+utilizado pelo cosmonauta?",A: zero vírgula dez; B: zero vírgula cinquenta; C: dois vírgula um; D: dez; E: vinte e um,1.79508,C,2016
 52,"Em 1950, Erwin Chargaff e colaboradores estudavam 
 a composição química do DNA e observaram que a 
 quantidade de adenina (A) é igual à de timina (T), e a 
@@ -1142,7 +1006,7 @@ exemplificada pelo professor?""",A: Adenina: 20; Timina: 25; Guanina: 25; Citosi
 à sombra. Para regular sua temperatura corporal e mantê-la constante, a pessoa libera calor através da evaporação 
 do suor. Considere que a potência necessária para manter seu metabolismo é 120 W e que, nessas condições, 20% 
 dessa energia é dissipada pelo suor, cujo calor de vaporização é igual ao da água (540 cal/g). Utilize 1 cal igual a 4 J.
-Após duas horas nessa situação, que quantidade de água essa pessoa deve ingerir para repor a perda pela transpiração?","A: 0,08 g; B: 0,44 g; C: 1,30 g; D: 1,80 g; E: 80,0 g",1.29881,D,2016
+Após duas horas nessa situação, que quantidade de água essa pessoa deve ingerir para repor a perda pela transpiração?",A: zero vírgula zero oito gramas; B: zero vírgula quarenta e quatro gramas; C: um vírgula trinta gramas; D: um vírgula oitenta gramas; E: oitenta vírgula zero gramas,1.29881,D,2016
 54,"Suponha que um pesticida lipossolúvel que se acumula no organismo após ser ingerido tenha sido utilizado 
 durante anos na região do Pantanal, ambiente que tem uma de suas cadeias alimentares representadas no esquema:
 PLÂNCTON ĺ PULGA-D’ÁGUA ĺ LAMBARI ĺ PIRANHA ĺ TUIUIÚ
@@ -1173,12 +1037,12 @@ até a forma esquizonte.; C: reprodução assexuada dos esporozoítos no fígado
 indivíduo infectado.; D: liberação de merozoítos dos hepatócitos para a 
 corrente sanguínea.; E: formação de gametócitos dentro das hemácias.",1.61944,C,2016
 56,"O soro fisiológico é uma solução aquosa de 
-cloreto de sódio (NaCl) comumente utilizada para 
+cloreto de sódio (fórmula química do sal de cozinha) comumente utilizada para 
 higienização ocular, nasal, de ferimentos e de lentes 
 de contato. Sua concentração é 0,90% em massa e 
 densidade igual a 1,00 g/mL.
-Qual massa de NaCl, em grama, deverá ser adicionada à 
-água para preparar 500 mL desse soro?","A: 0,45; B: 0,90; C: 4,50; D: 9,00; E: 45,00",1.14504,B,2016
+Qual massa de fórmula química do sal de cozinha, em grama, deverá ser adicionada à 
+água para preparar 500 mL desse soro?",A: zero vírgula quarenta e cinco; B: zero vírgula noventa; C: quatro vírgula cinquenta; D: nove vírgula zero zero; E: quarenta e cinco vírgula zero zero,1.14504,B,2016
 57,"Um eletricista deve instalar um chuveiro que 
 tem as especificações 220 V — 4 400 W a 6 800 W. 
 Para a instalação de chuveiros, recomenda-se uma 
@@ -1191,7 +1055,7 @@ curtos-circuitos e sobrecargas elétricas e devem
 desarmar sempre que houver passagem de corrente 
 elétrica superior à permitida no dispositivo.
 Para fazer uma instalação segura desse chuveiro, o valor 
-da corrente máxima do disjuntor deve ser",A: 20 A.; B: 25 A.; C: 30 A.; D: 35 A.; E: 40 A.,1.05996,A,2016
+da corrente máxima do disjuntor deve ser",A: vinte ampères; B: vinte e cinco ampères; C: trinta ampères; D: trinta e cinco ampères; E: quarenta ampères.,1.05996,A,2016
 58,"Suponha que uma doença desconhecida esteja 
 dizimando um rebanho bovino de uma cidade e alguns 
 veterinários tenham conseguido isolar o agente causador 
@@ -1239,7 +1103,7 @@ Metano
 CFC-12
 CFC-11
 Disponível em: www.esrl.noaa.gov. Acesso em: 6 ago. 2012 (adaptado).
-Qual gás teve o maior aumento percentual de concentração na atmosfera nas últimas duas décadas?",A: CO2; B: CH4; C: N2O; D: CFC-12; E: CFC-11,1.38542,D,2016
+Qual gás teve o maior aumento percentual de concentração na atmosfera nas últimas duas décadas?",A: fórmula química do gás carbônico; B: fórmula química do metano; C: N2O; D: CFC-12; E: CFC-11,1.38542,D,2016
 61,"O eletrocardiograma, exame utilizado para avaliar 
 o estado do coração de um paciente, trata-se do 
 registro da atividade elétrica do coração ao longo de 
@@ -1263,22 +1127,19 @@ e dos custos de produção, entre outras. Atualmente, a
 preocupação com a agricultura sustentável tem suscitado 
 práticas como a adubação verde, que consiste na 
 incorporação ao solo de fitomassa de espécies vegetais
-distintas, sendo as mais difundidas as leguminosas.
-ANUNCIAÇÃO, G. C. F. Disponível em: www.muz.ifsuldeminas.edu.br.
- Acesso em: 20 dez. 2012 (adaptado).","A: utilização de leguminosas nessa prática de cultivo visa 
+distintas, sendo as mais difundidas as leguminosas.","A: utilização de leguminosas nessa prática de cultivo visa 
 reduzir a; A: utilização de agrotóxicos.; B: atividade biológica do solo.; C: necessidade do uso de fertilizantes.; D: decomposição da matéria orgânica.; E: capacidade de armazenamento de água no solo.",1.24446,A,2016
 63,"Nos anos 1990, verificou-se que o rio Potomac,
 situado no estado norte-americano de Maryland, tinha, 
 em parte de seu curso, águas extremamente ácidas por 
 receber um efluente de uma mina de carvão desativada, o
-qual continha ácido sulfúrico (H2SO4). Essa água, embora 
+qual continha ácido sulfúrico. Essa água, embora 
 límpida, era desprovida de vida. Alguns quilômetros 
 adiante, instalou-se uma fábrica de papel e celulose 
-que emprega hidróxido de sódio (NaOH) e carbonato de 
-sódio (Na2CO3) em seus processos. Em pouco tempo, 
+que emprega hidróxido de sódio e carbonato de 
+sódio em seus processos. Em pouco tempo, 
 observou-se que, a partir do ponto em que a fábrica lança 
 seus rejeitos no rio, a vida aquática voltou a florecer.
-HARRIS, D. C. Análise química quantitativa. Rio de Janeiro: 
 A explicação para o retorno da vida aquática nesse rio é a","A: diluição das águas do rio pelo novo efluente lançado
 nele.; B: precipitação do íon sulfato na presença do efluente
 da nova fábrica.; C: biodegradação do ácido sulfúrico em contato com o 
@@ -1309,7 +1170,7 @@ precipitação do óxido de ferro(III) hidratado, substância
 marrom pouco solúvel, conhecida como ferrugem. Esse 
 processo corrosivo é, de maneira geral, representado 
 pela equação química:
-4 Fe (s) + 3 O2 (g) + 2 H2O (l) → 2 Fe2 O3 H2 O (s)
+4 fórmula química do ferro (s) + 3 fórmula química do gás oxigênio (g) + 2 fórmula química da água (l) → 2 Fe2 O3 fórmula química do gás hidrogênio O (s)
 Ferrugem.
 Uma forma de impedir o processo corrosivo nesses 
 utensílios é","A: renovar sua superfície, polindo-a semanalmente.; B: evitar o contato do utensílio com o calor, isolando-o 
@@ -1432,7 +1293,7 @@ evolução, propostas por Darwin e por Lamarck, refere-se
 à interação entre os organismos e seus ambientes, que é 
 denominada de",A: mutação.; B: adaptação.; C: seleção natural.; D: recombinação gênica.; E: variabilidade genética.,1.20527,A,2016
 75,"A obtenção do alumínio dá-se a partir da 
-bauxita (Al2O3 3H2O), que é purificada e eletrolisada
+bauxita (Fórmula química de óxido de alumínio hidratado com três moléculas de água.), que é purificada e eletrolisada
 numa temperatura de 1 000 °C. Na célula eletrolítica, o 
 ânodo é formado por barras de grafite ou carvão, que são
 consumidas no processo de eletrólise, com formação de 
@@ -1560,20 +1421,17 @@ Disponível em: http://portalsaude.saude.gov.br. Acesso em: 20 dez. 2012 (adapta
 Qual o conceito fundamental relacionado a essa 
 estratégia?",A: Clonagem.; B: Mutualismo.; C: Parasitismo.; D: Transgênese.; E: Controle biológico.,1.57689,A,2016
 85,"A bauxita é o minério utilizado na fabricação do 
-alumínio, a qual apresenta Al2O3 (alumina) em sua 
+alumínio, a qual apresenta alumina em sua 
 composição. Após o trituramento e lavagem para reduzir 
 o teor de impurezas, o minério é misturado a uma solução 
-aquosa de NaOH (etapa A). A parte sólida dessa mistura 
+aquosa de fórmula química do hidróxido de sódio (etapa A). A parte sólida dessa mistura 
 é rejeitada e a solução resultante recebe pequenos cristais 
 de alumina, de onde sedimenta um sólido (etapa B).
 Esse sólido é aquecido até a obtenção de um pó 
 branco, isento de água e constituído unicamente por 
 alumina. Finalmente, esse pó é aquecido até sua fusão 
 e submetido a uma eletrólise, cujos produtos são o 
-metal puro fundido (Al) e o gás carbônico (CO2).
-SILVA FILHO, E. B.; ALVES, M. C. M.; DA MOTTA, M. Lama vermelha da indústria de
-beneficiamento de alumina: produção características, disposição e
-aplicações alternativas. Revista Matéria, n. 2, 2007.
+metal puro fundido (Al) e o gás carbônico (fórmula química do gás carbônico).
 Nesse processo, as funções das etapas A e B são, 
 respectivamente,","A: oxidar a alumina e outras substâncias e reduzir 
 seletivamente a alumina.; B: solubilizar a alumina e outras substâncias e induzir a 
@@ -1594,14 +1452,14 @@ Superfície da Lua
 4,0 N
 M
 A: razão das massas M / m
- é","A: 4,0.; B: 2,5.; C: 0,4.; D: 1,0.; E: 0,25.",2.3456,A,2016
+ é",A: quatro vírgula zero; B: dois vírgula cinco; C: zero vírgula quatro; D: um vírgula zero; E: zero vírgula vinte e cinco,2.3456,A,2016
 87,"A energia nuclear é uma alternativa aos combustíveis 
 fósseis que, se não gerenciada de forma correta, pode 
 causar impactos ambientais graves. O princípio da 
 geração dessa energia pode se basear na reação de 
 fissão controlada do urânio por bombardeio de neutrons
 como ilustrado:
-235U + n ĺ 95Sr + 139Xe + 2n + energia
+fórmula química do urânio-235 + fórmula química do nêutron → fórmula química do estrôncio-90 + fórmula química do xenônio-144 + 2 fórmula química do nêutron + energia
 Um grande risco decorre da geração do chamado 
 lixo atômico, que exige condições muito rígidas de 
 tratamento e armazenamento para evitar vazamentos 
@@ -1630,7 +1488,7 @@ funciona com 12 V e corrente contínua de 0,45 A,
 produz a mesma quantidade de luz que uma lâmpada 
 incandescente de 60 W de potência.
 Qual é o valor da redução da potência consumida ao se 
-substituir a lâmpada incandescente pela de LED?","A: 54,6 W; B: 27,0 W; C: 26,6 W; D: 5,4 W; E: 5,0 W",0.54807,E,2016
+substituir a lâmpada incandescente pela de LED?",A: cinquenta e quatro vírgula seis watts; B: vinte e sete vírgula zero watts; C: vinte e seis vírgula seis watts; D: cinco vírgula quatro watts; E: cinco vírgula zero watts,0.54807,E,2016
 90,"Para lavar e refrescar o ambiente, que estava a 40 °C,
 uma pessoa resolveu jogar água sobre um piso de granito. 
 Ela observou que o líquido se concentrou em algumas 
@@ -1643,7 +1501,7 @@ derramamento de parte da água de cozimento sobre a
 chama azul do fogo, mudando-a para uma chama amarela. 
 Essa mudança de cor pode suscitar interpretações 
 diversas, relacionadas às substâncias presentes na água 
-de cozimento. Além do sal de cozinha (NaCl), nela se 
+de cozimento. Além do sal de cozinha (fórmula química do sal de cozinha), nela se 
 encontram carboidratos, proteínas e sais minerais.
 Cientificamente, sabe-se que essa mudança de cor da 
 chama ocorre pela","A: reação do gás de cozinha com o sal, volatilizando 
@@ -1750,10 +1608,8 @@ físico-químicas do sistema. As equações químicas
 exemplificam duas possíveis reações de combustão do 
 etanol.
 Descrição das equações químicas:
-Os reagentes C2H6O + 7 meios de O2 formam os 
-produtos 2 CO2 + 3 H2O.
-Os reagentes C2H6O + 5 meios de O2 formam os 
-produtos 2 CO + 3 H2O.
+fórmula química do etanol + 7/2 fórmula química do gás oxigênio → 2 fórmula química do gás carbônico + 3 fórmula química da água
+fórmula química do etanol + 5/2 fórmula química do gás oxigênio → 2 fórmula química do monóxido de carbono + 3 fórmula química da água
 Essa desregulagem causou, em relação ao 
 funcionamento normal do motor, um(a)",A: excesso na admissão de ar.; B: aumento da proporção etanol por oxigênio.; C: desativação do catalisador obrigatório.; D: elevação da pressão na câmara de combustão.; E: diminuição da temperatura na câmara de combustão.,1.67212,B,2017
 97,"As centrífugas são equipamentos utilizados em 
@@ -1826,12 +1682,12 @@ funcionam como núcleos de condensação de vapor de
 e pressão, propiciam a formação das nuvens e 
 consequentemente das chuvas. No ar atmosférico, tais 
 partículas são formadas pela reação de ácidos (HX) 
-com a base NH3, de forma natural ou antropogênica, 
+com a base fórmula química da amônia, de forma natural ou antropogênica, 
 dando origem a sais de amônio (NH4X), de acordo com a 
 equação química genérica:
 Descrição da equação química genérica:
-Os reagentes HX (gasoso) + NH3 (gasoso) formam o 
-produto NH4X (sólido).
+Os reagentes HX (gasoso) + fórmula química da amônia (gasoso) formam o 
+produto fórmula química do gás de amônio (sólido).
 A fixação de moléculas de vapor de água pelos núcleos 
 de condensação ocorre por",A: ligações iônicas.; B: interações dipolo-dipolo.; C: interações dipolo-dipolo induzido.; D: interações íon-dipolo.; E: ligações covalentes.,2.23369,D,2017
 101,"O  radar é um dispositivo usado pelos agentes de 
@@ -1871,7 +1727,7 @@ Descrição da figura:
 amianto.
 •	 A semicélula da esquerda contém um ânodo de carbono (polo positivo da célula eletroquímica) que está ligado 
 ao polo positivo de uma bateria.
-•	 Essa semicélula é alimentada por uma solução aquosa de NaCl, e ocorre liberação de Cl2 gasoso através de 
+•	 Essa semicélula é alimentada por uma solução aquosa de fórmula química do sal de cozinha, e ocorre liberação de Cl2 gasoso através de 
 um orifício em sua parte superior.
 •	 A semicélula da direita contém um cátodo de carbono (polo negativo da célula eletroquímica) que está ligado 
 ao polo negativo da bateria.
@@ -2040,13 +1896,13 @@ fonte sonora é",A: três mil e duzentos; B: mil e seiscentos; C: oitocentos; D:
 salicílico (massa molar igual a 138 gramas por mol) com anidrido acético, usando-se ácido sulfúrico como catalisador, 
 conforme o esquema reacional:
 Descrição do esquema reacional:
-Uma molécula de ácido salicílico (cadeia carbônica que contém um anel ligado no carbono 1 ao grupo COOH, por 
+Uma molécula de ácido salicílico (cadeia carbônica que contém um anel ligado no carbono 1 ao grupo fórmula química do grupo carboxila, por 
 meio de ligação simples, e ligado no carbono 2 ao grupo hidroxila (OH), também por meio de ligação simples) reage 
 com uma molécula de anidrido acético (cadeia carbônica com oxigênio no centro, ligado por meio de ligação simples 
-a dois grupos C dupla O ligação simples com CH3) em presença de ácido sulfúrico e produz uma molécula de ácido 
-acetilsalicílico (cadeia carbônica que contém um anel ligado no carbono 1 ao grupo COOH por meio de ligação 
-simples, e ligado no carbono 2 ao grupo O ligação simples para C dupla O, e ligação simples para CH3 também por 
-meio de ligação simples) e uma molécula de ácido acético (CH3 ligação simples com o grupo COOH).
+a dois grupos Carbono dupla Oxigênio ligação simples com fórmula química do radical metila) em presença de ácido sulfúrico e produz uma molécula de ácido 
+acetilsalicílico (cadeia carbônica que contém um anel ligado no carbono 1 ao grupo fórmula química do grupo carboxila por meio de ligação 
+simples, e ligado no carbono 2 ao grupo O ligação simples para C dupla O, e ligação simples para fórmula química do radical metila também por 
+meio de ligação simples) e uma molécula de ácido acético (fórmula química do radical metila ligação simples com o grupo fórmula química do grupo carboxila).
 Após a síntese, o AAS é purificado e o rendimento final é de aproximadamente 50 por cento. Devido às suas 
 propriedades farmacológicas (antitérmico, analgésico, anti-inflamatório e antitrombótico), o AAS é utilizado como 
 medicamento na forma de comprimidos, nos quais se emprega tipicamente uma massa de 500 miligramas dessa 
@@ -2056,25 +1912,25 @@ texto. Qual é a massa de ácido salicílico, em quilograma, que deve ser empreg
 115,"A Mata Atlântica caracteriza-se por uma grande diversidade de epífitas, como as bromélias. Essas plantas estão 
 adaptadas a esse ecossistema e conseguem captar luz, água e nutrientes mesmo vivendo sobre as árvores.
 Essas espécies captam água do(a)",A: organismo das plantas vizinhas.; B: solo através de suas longas raízes.; C: chuva acumulada entre suas folhas.; D: seiva bruta das plantas hospedeiras.; E: comunidade que vive em seu interior.,2.25847,C,2017
-116,"O ferro é encontrado na natureza na forma de seus minérios, tais como a hematita (alfa-Fe2O3), a magnetita 
+116,"O ferro é encontrado na natureza na forma de seus minérios, tais como a hematita (alfa-fórmula química do óxido de ferro III), a magnetita 
 (Fe3O4) e a wustita (FeO). Na siderurgia, o ferro-gusa é obtido pela fusão de minérios de ferro em altos fornos em 
 condições adequadas. Uma das etapas nesse processo é a formação de monóxido de carbono. O CO (gasoso) é 
 utilizado para reduzir o FeO (sólido), conforme a equação química:
 Descrição da equação química:
-Os reagentes FeO (sólido) + CO (gasoso) formam os produtos Fe (sólido) + CO2 (gasoso).
+Os reagentes fórmula química do óxido ferroso (sólido) + fórmula química do ócido de carbono (gasoso) formam os produtos Ferro (sólido) + fórmula química do gás carbônico (gasoso).
 Considere as seguintes equações termoquímicas:
 Descrição das três equações termoquímicas:
 Primeira equação:
-•	 Os reagentes Fe2O3 (sólido) + 3 CO (gasoso) formam os produtos 2 Fe (sólido) + 3 CO2 (gasoso). 
-•	 Variação de entalpia igual a −25 quilojoules por mol de Fe2O3.
+•	 Os reagentes fórmula química do óxido de ferro III (sólido) + 3 CO (gasoso) formam os produtos 2 Fe (sólido) + 3 fórmula química do gás carbônico (gasoso). 
+•	 Variação de entalpia igual a −25 quilojoules por mol de fórmula química do óxido de ferro III.
 Segunda equação:
-•	 Os reagentes 3 FeO (sólido) + CO2 (gasoso) formam os produtos Fe3O4 (sólido) + CO (gasoso).
-•	 Variação de entalpia igual a −36 quilojoules por mol de CO2.
+•	 Os reagentes 3 FeO (sólido) + fórmula química do gás carbônico (gasoso) formam os produtos fórmula química da magnetita (sólido) + CO (gasoso).
+•	 Variação de entalpia igual a −36 quilojoules por mol de fórmula química do gás carbônico.
 Terceira equação:
-•	 Os reagentes 2 Fe3O4 (sólido) + CO2 (gasoso) formam os produtos 3 Fe2O3 (sólido) + CO (gasoso).
-•	 Variação de entalpia igual a +47 quilojoules por mol de CO2.
+•	 Os reagentes 2 fórmula química da magnetita (sólido) + fórmula química do gás carbônico (gasoso) formam os produtos 3 fórmula química do óxido de ferro III (sólido) + fórmula química da hidroxila (gasoso).
+•	 Variação de entalpia igual a +47 quilojoules por mol de fórmula química do gás carbônico.
 O valor mais próximo de variação de entalpia, em quilojoule por mol de FeO, para a reação indicada do  
-FeO (sólido) com o CO (gasoso) é",A: menos catorze; B: menos dezessete; C: menos cinquenta; D: menos sessenta e quatro; E: menos cem,2.1206,B,2017
+FeO (sólido) com o fórmula química da hidroxila (gasoso) é",A: menos catorze; B: menos dezessete; C: menos cinquenta; D: menos sessenta e quatro; E: menos cem,2.1206,B,2017
 117,"Japão pesquisa efeitos da radiação na fauna e flora de Fukushima
 O Japão começou uma investigação em animais e plantas para estabelecer os efeitos da radiação procedente da 
 usina nuclear de Fukushima nas regiões mais afetadas pelo acidente atômico. A análise registrará os níveis de césio 
@@ -2136,9 +1992,9 @@ terceiro e um grupo metila no terceiro carbono;
 •	 um anel benzênico condensado ao ciclo pelos 
 carbonos 4 e 5 do ciclo.
 Qual solução deve ser usada para extração do lapachol 
-da serragem do ipê com maior eficiência?","A: Solução de Na2CO3 para formar um sal de lapachol.; B: Solução-tampão ácido acético/acetato de sódio 
-(pH = 4,5).; C: Solução de NaCl a fim de aumentar a força iônica 
-do meio.; D: Solução de Na2SO4 para formar um par iônico com 
+da serragem do ipê com maior eficiência?","A: Solução de fórmula química do carbonato de sódio para formar um sal de lapachol.; B: Solução-tampão ácido acético/acetato de sódio 
+(pH = 4,5).; C: Solução de fórmula química do sal de cozinha a fim de aumentar a força iônica 
+do meio.; D: Solução de fórmula química do sulfato de Sódio para formar um par iônico com 
 lapachol.; E: Solução de HCl a fim de extraí-lo por meio de reação 
 ácido-base.",1.34402,A,2017
 121,"Alguns tipos de dessalinizadores usam o processo de 
@@ -2202,7 +2058,7 @@ enquanto o desatento, em situação análoga, leva
 Que distância o motorista desatento percorre a mais do 
 que o motorista atento, até a parada total dos carros?",A: dois vírgula noventa metros; B: catorze vírgula zero metros; C: catorze vírgula cinco metros; D: quinze vírgula zero metros; E: dezessete vírgula quatro metros,0.56765,E,2017
 126,"Uma das estratégias para conservação de alimentos 
-é o salgamento, adição de cloreto de sódio (NaCl), 
+é o salgamento, adição de cloreto de sódio (fórmula química do sal de cozinha), 
 historicamente utilizado por tropeiros, vaqueiros e 
 sertanejos para conservar carnes de boi, porco e peixe.
 O que ocorre com as células presentes nos alimentos 
@@ -2241,7 +2097,7 @@ Descrição do esquema:
 O reagente but-1-eno (hidrocarboneto formado por 
 quatro átomos de carbono que apresenta uma ligação 
 dupla entre o primeiro e o segundo átomos de carbono) 
-reage com ozônio (O3), em presença de água (H2O), 
+reage com ozônio (O3), em presença de água (fórmula química da água), 
 e zinco metálico (Zn), e produz propanal (carbono 
 ligado a oxigênio por meio de ligação dupla e ligado 
 a um átomo de hidrogênio e a um grupo etila por meio 
@@ -2386,7 +2242,7 @@ gás (2), tóxico (6) e corrosivo (8). Os quatro dígitos da
 parte inferior correspondem ao “Número ONU”, que
 identifica o produto transportado.
 Considerando a identificação apresentada no caminhão,
-o código 1005 corresponde à substância",A: eteno.; B: nitrogênio.; C: amônia.; D: propano.; E: dióxido de carbono (CO).,1.46128,C,2018
+o código 1005 corresponde à substância",A: eteno.; B: nitrogênio.; C: amônia.; D: propano.; E: dióxido de carbono.,1.46128,C,2018
 95,"Fundamentos da biologia celular
 
 No ciclo celular atuam moléculas reguladoras. Dentre
@@ -2527,7 +2383,7 @@ do líquido.; E: pressão no interior da boca assume praticamente o
 mesmo valor daquela que atua sobre o suco.",1.81929,E,2018
 104,"O alemão Fritz Haber recebeu o Prêmio Nobel de
 química de 1918 pelo desenvolvimento de um processo
-viável para a síntese da amônia (NH,). Em seu discurso
+viável para a síntese da amônia (NH). Em seu discurso
 de premiação, Haber justificou a importância do feito
 dizendo que:
 
@@ -2635,8 +2491,8 @@ ilustra a equação química, sendo que aproximadamente
 
 Descrição da equação química:
 
-Os reagentes C,H,,O, (sólido) mais 6 O, (gasoso)
-formam os produtos 6 CO, (gasoso) mais 6 H,O
+Os reagentes fórmula química da glicose (sólido) mais 6 fórmula química do gás oxigênio (gasoso)
+formam os produtos 6 fórmula química do gás carbônico (gasoso) mais 6 fórmula química da água
 (líquido). Variação de entalpia igual a —2 800 quilojoules.
 
 Considere as massas molares (em grama por mol):
@@ -2969,7 +2825,7 @@ O corpo molhado provoca o efeito descrito no texto porque",A: reduz a resistivid
 129,"De embalagens a foguetes, o alumínio tem ampla
 utilidade na vida do ser humano. A principal fonte desse
 metal é a bauxita, mineral que contém vários óxidos de
-alumínio, sendo a alumina (Al,O,) o principal deles. Após
+alumínio, sendo a alumina o principal deles. Após
 extração e refinamento térmico da bauxita, a alumina
 obtida é convertida eletroliticamente em alumínio metálico.
 
@@ -3389,6 +3245,27 @@ superior, disco de metal.
 milímetros de largura por 410 milímetros de altura.
 • Massa do disco de metal: 30 gramas.
 O resultado do cálculo da etapa 2, em joule, é:","A: quatro vírgula dez vezes, abre parêntese, dez elevado a menos dois, fecha parêntese., B: oito vírgula vinte vezes, abre parêntese, dez elevado a menos dois, fecha parêntese., C: um vírgula vinte e três vezes, abre parêntese, dez elevado a menos um, fecha parêntese., D: oito vírgula vinte vezes, abre parêntese, dez elevado a quatro, fecha parêntese., E: um vírgula vinte e três vezes, abre parêntese, dez elevado a cinco, fecha parêntese.",2.04675,B,2019
+107,"O odor que permanece nas mãos após o contato com 
+alho pode ser eliminado pela utilização de um “sabonete 
+de aço inoxidável”, constituído de aço inox (74 por cento), 
+cromo e níquel. A principal vantagem desse “sabonete” é 
+que ele não se desgasta com o uso. Considere que a 
+principal substância responsável pelo odor de alho é a 
+alicina (estrutura I) e que, para que o odor seja eliminado, 
+ela seja transformada na estrutura II.
+Descrição das estruturas:
+Estrutura I: Estrutura contendo CH2 ligação dupla 
+CH ligação simples CH2 ligação simples S ligação 
+simples S (esse enxofre tem carga positiva e se 
+liga, por meio de ligação simples, a um átomo de 
+oxigênio que tem carga negativa) esse mesmo 
+enxofre faz ligação simples CH2 ligação simples CH 
+ligação dupla CH2.
+Estrutura II: Estrutura contendo CH2 ligação dupla 
+CH ligação simples CH2 ligação simples S ligação 
+simples S ligação simples CH2 ligação simples CH 
+ligação dupla CH2.
+Na conversão de I em II, o  “sabonete” atuará como um",A: ácido.; B: redutor.; C: eletrólito.; D: tensoativo.; E: catalisador.,,E,2019
 108,"A contaminação dos oceanos por  
 radionuclídeos antropogênicos
 A poluição radioativa compreende mais de 200 nuclídeos, sendo que, do ponto de vista de impacto 
@@ -3843,6 +3720,21 @@ sofrer choque elétrico.
 Para minimizar este tipo de problema, deve-se:","A: Fazer o aterramento dos arames da cerca.; B: Acrescentar fusível de segurança na cerca.; C: Realizar o aterramento da rede de alta tensão.; D: Instalar fusível de segurança na rede de alta tensão.; E: Utilizar fios encapados com isolante na rede
 de alta tensão.",1.45214,A,2019
 135," ""A esquistossomose (barriga-dʼágua) caracteriza-se",,0.58402,E,2019
+pela inflamação do fígado e do baço causada pelo verme,,,,,2019
+Schistosoma mansoni (esquistossomo). O contágio,,,,,2019
+ocorre depois que larvas do verme são liberadas na,,,,,2019
+água pelo caramujo do gênero Biomphalaria, seu,,,,2019
+hospedeiro intermediário, e penetram na pele humana.,,,,2019
+Após o diagnóstico, o tratamento tradicional utiliza,,,,2019
+medicamentos por via oral para matar o parasita dentro,,,,,2019
+do corpo. Uma nova estratégia terapêutica baseia-se na,,,,,2019
+utilização de uma vacina, feita a partir de uma proteína,,,,2019
+extraída do verme, que induz o organismo humano a,,,,2019
+produzir anticorpos para combater e prevenir a doença.,,,,,2019
+"Uma vantagem da vacina em""","A: impedir a penetração do parasita pela pele.; B: eliminar o caramujo para que não haja contágio.; C: impedir o acesso do esquistossomo especificamente
+para o fígado.; D: eliminar o esquistossomo antes que ocorra contato
+com o organismo.; E: eliminar o esquistossomo dentro do organismo antes
+da manifestação de sintomas.",,,,2019
 91,"Megaespetáculos com queima de grande quantidade 
 de fogos de artifício em festas de final de ano são muito 
 comuns no Brasil. Após a queima, grande quantidade 
@@ -3899,6 +3791,24 @@ imersas em água: A, B, C e D, totalizando um volume de
 16 mililitros.
 
 Com base nos dados obtidos, o investidor adquiriu as moedas",A: A e B.; B: A e C.; C: B e C.; D: B e D.; E: C e D.,0.95056,D,2020
+94,"Os diferentes tipos de café que consumimos nem 
+sempre vêm da mesma espécie de planta. As duas 
+espécies de café mais utilizadas são Coffea canephora 
+e Coffea arabica. A primeira é diploide, abre parêntese, 
+2 vezes n é igual a 22, fecha parêntese, e a segunda 
+é tetraploide, abre parêntese, 2 vezes n é igual a 44, 
+fecha parêntese. Acredita-se que a espécie tetraploide 
+surgiu de um cruzamento natural entre C. canephora e 
+C. eugenioides, ambas diploides, há milhões de anos. De 
+fato, as análises genéticas atuais nos cromossomos de 
+C. arabica detectam os alelos de ambas as origens.
+A alteração cromossômica que poderia explicar o 
+surgimento do café da espécie C. arabica é:","A: Duplicação em uma das plantas parentais antes do 
+cruzamento.; B: Inversão durante a meiose gamética em ambas as 
+plantas parentais.; C: Separação desigual na meiose gamética de uma das 
+plantas parentais.; D: Falha na separação durante a meiose gamética em 
+ambas as plantas parentais.; E: Deleções durante as primeiras mitoses zigóticas na 
+planta descendente C. arabica.",,X,2020
 95,"Os manuais de refrigerador apresentam a 
 recomendação de que o equipamento não deve ser 
 instalado próximo a fontes de calor, como fogão e 
@@ -4809,6 +4719,15 @@ na obtenção de combustíveis é uma alternativa que
 permite diversificar a matriz energética nacional, ao
 mesmo tempo em que parte dos recursos hídricos do
 país são preservados.A: O biocombustível a que se refere o texto é o",A: etanol.; B: biogás.; C: butano.; D: metanol.; E: biodiesel.,1.79781,B,2021
+110,"A curcumina, uma das substâncias que confere a
+cor alaranjada ao açafrão, pode auxiliar no combate
+à dengue quando adicionada à água de criadouros do
+mosquito transmissor. Essa substância acumula-se no
+intestino do inseto após ser ingerida com a água do
+criadouro e, quando ativada pela luz, induz a produção
+de espécies reativas de oxigênio que danificam de
+forma fatal o tecido do tubo digestório.
+A forma de combate relatada tem como atividade o(a)",A: morte do indivíduo adulto.; B: redução da eclosão dos ovos.; C: comprometimento da metamorfose.; D: impedimento do desenvolvimento da larva.; E: repelência da forma transmissora da doença.,,D,2021
 111,"Na cidade de São Paulo, as ilhas de calor são
 responsáveis pela alteração da direção do fluxo da brisa
 marítima que deveria atingir a região de mananciais.
@@ -5294,6 +5213,39 @@ passam a destruir todas as células com a molécula tumoral,
 como se lutassem apenas contra o protozoário. 
 Qual o mecanismo utilizado no experimento para enganar 
 as células de defesa, fazendo com que ataquem o tumor?",A: Autoimunidade.; B: Hipersensibilidade.; C: Ativação da resposta inata.; D: Apresentação de antígeno específico.; E: Desencadeamento de processo anti-inflamatório.,1.42364,D,2022
+92,"O sinal sonoro oriundo da queda de um grande bloco 
+de gelo de uma geleira é detectado por dois dispositivos 
+situados em um barco, sendo que o detector A está 
+imerso em água e o B, na proa da embarcação. Sabe-se 
+que a velocidade do som na água é de 1 540 metros por 
+segundo e no ar é de 340 metros por segundo.
+Descrição da ilustração: Uma embarcação com o 
+detector A, que está imerso em água e suspenso por 
+um cabo ligado ao barco, e o detector B, posicionado 
+sobre a parte da frente da embarcação. Os detectores 
+A e B estão ao longo da mesma linha vertical, que é 
+perpendicular à linha que indica a distância L entre a 
+embarcação e o bloco de gelo.
+Os gráficos indicam, em tempo real, o sinal sonoro 
+detectado pelos dois dispositivos, os quais foram ligados 
+simultaneamente em um instante anterior à queda do 
+bloco de gelo. Ao comparar pontos correspondentes 
+desse sinal em cada dispositivo, é possível obter 
+informações sobre a onda sonora.
+Descrição do Gráfico A: O eixo horizontal indica o 
+tempo, em segundo, de 208 a 244. O eixo vertical 
+indica a intensidade do sinal, sem valores. O sinal tem 
+uma forma oscilante apresentando 5 picos e 5 vales no 
+intervalo de tempo entre 208 e 226 segundos. O terceiro 
+vale corresponde ao tempo de 220 segundos.
+Descrição do Gráfico B: O eixo horizontal indica o 
+tempo, em segundo, de 208 a 244. O eixo vertical 
+indica a intensidade do sinal, sem valores. O sinal tem 
+uma forma oscilante apresentando 5 picos e 5 vales 
+no intervalo de tempo entre 220 e 238 segundos. O 
+terceiro vale corresponde ao tempo de 232 segundos.
+A distância L, em metro, entre o barco e a geleira é mais 
+próxima de",A: trezentos e trinta e nove mil; B: setenta e oito mil e novecentos; C: catorze mil e quatrocentos; D: cinco mil e duzentos e quarenta; E: cem,,D,2022
 93,"Brasileiro inventor de, abre aspas, luz engarrafada, 
 fecha aspas, tem ideia espalhada pelo mundo
 Em 2002, um mecânico da cidade mineira de 
@@ -5493,6 +5445,12 @@ seta associa uma das células da blástula de cor preta a uma das amostras de c�
 associa uma das células da blástula em cor branca a uma amostra de células corporais em cor branca.
 Entre mulheres heterozigotas para doenças determinadas por genes recessivos ligados ao sexo, essa inativação tem 
 como consequência a ocorrência de",A: pleiotropia.; B: mutação gênica.; C: interação gênica.; D: penetrância incompleta.; E: expressividade variável.,1.46748,E,2022
+105,"Uma lanterna funciona com três pilhas de resistência interna igual a 0,5 ohm cada, ligadas em série. Quando 
+posicionadas corretamente, devem acender a lâmpada incandescente de especificações 4,5 watts e 4,5 volts. 
+Cada pilha na posição correta gera uma f.e.m. (força eletromotriz) de 1,5 volt. Uma pessoa, ao trocar as pilhas da 
+lanterna, comete o equívoco de inverter a posição de uma das pilhas. Considere que as pilhas mantêm contato 
+independentemente da posição.
+Com esse equívoco, qual é a intensidade de corrente que passa pela lâmpada ao se ligar a lanterna?",A: zero vírgula vinte e cinco ampère; B: zero vírgula trinta e três ampère; C: zero vírgula setenta e cinco ampère; D: um vírgula zero zero ampère; E: um vírgula trinta e três ampère,,A,2022
 106,"Em uma aula prática de bioquímica, para medir a atividade catalítica da enzima catalase, foram realizados seis ensaios 
 independentes, nas mesmas condições, variando-se apenas a temperatura. A catalase decompõe o peróxido de hidrogênio 
 (H2O2), produzindo água e oxigênio. Os resultados dos ensaios estão apresentados no quadro.
@@ -5571,6 +5529,45 @@ Machos expostos à atrazina: 0,3.
 Fêmeas controle: 0,5.
 Com base nas informações do texto, qual é o hormônio 
 cujas concentrações estão representadas na figura?",A: Estrogênio.; B: Feromônio.; C: Testosterona.; D: Somatotrofina.; E: Hormônio folículo estimulante.,0.56741,C,2022
+111,"Um pai faz um balanço utilizando dois segmentos 
+paralelos e iguais da mesma corda para fixar uma tábua a 
+uma barra horizontal. Por segurança, opta por um tipo de 
+corda cuja tensão de ruptura seja 25 por cento superior à 
+tensão máxima calculada nas seguintes condições:
+•	 O ângulo máximo atingido pelo balanço em 
+relação à vertical é igual a 90 graus;
+•	 Os filhos utilizarão o balanço até que tenham uma 
+massa de 24 quilogramas.
+Além disso, ele aproxima o movimento do balanço 
+para o movimento circular uniforme, considera que a 
+aceleração da gravidade é igual a 10 metros por segundo 
+ao quadrado e despreza forças dissipativas.
+Qual é a tensão de ruptura da corda escolhida?",A: 120 newtons; B: 300 newtons; C: 360 newtons; D: 450 newtons; E: 900 newtons,,D,2022
+112,"O uso de materiais híbridos ou nanocompósitos 
+como revestimentos anticorrosivos do aço
+A nanotecnologia é responsável pelo aprimoramento 
+de diversos materiais, incluindo os que são impactados 
+com a presença de poluentes e da umidade na atmosfera, 
+causadores de corrosão. O processo de corrosão é 
+espontâneo e provoca a deterioração de metais como 
+o ferro, que, em presença de oxigênio e água, sofre 
+oxidação, conforme ilustra a equação química:
+Descrição da equação química: 4 Fe (sólido) reage 
+com 2 H2O (líquido) e 3 O2 gasoso formando o produto 
+2 Fe2O3 hidratado (sólido).
+4 Fe (s) + 2 H2O (l) + 3 O2 (g)   2 Fe2O3⋅H2O (s)
+Uma forma de garantir a durabilidade da estrutura 
+metálica e a sua resistência à umidade consiste na 
+deposição de filmes finos nanocerâmicos à base de 
+zircônia (ZrO2) e alumina (Al2O3) sobre a superfície do 
+objeto que se deseja proteger.
+Essa nanotecnologia aplicada na proteção contra a 
+corrosão se baseia no(a)","A: proteção catódica, que utiliza um metal fortemente 
+redutor.; B: uso de metais de sacrifício, que se oxidam no lugar 
+do ferro.; C: passivação do ferro, que fica revestido pelo seu 
+próprio óxido.; D: efeito de barreira, que impede o contato com o agente 
+oxidante.; E: galvanização, que usa outros metais de menor 
+potencial de redução.",,D,2022
 113,"As células da epiderme da folha da Tradescantia 
 pallida purpurea, uma herbácea popularmente conhecida 
 como trapoeraba-roxa, contém um vacúolo onde se 
