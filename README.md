@@ -8,6 +8,7 @@
 ├── src/         # Código-fonte principal para processamento de textos
 ```
 
+
 ## Configuração e Instalação
 
 1. Clone este repositório:
