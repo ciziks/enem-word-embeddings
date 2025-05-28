@@ -15,6 +15,7 @@ wordcloud
 nltk
 gensim
 ollama
+openai
 
 # Notebooks e ferramentas auxiliares
 notebook
