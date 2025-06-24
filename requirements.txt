@@ -9,6 +9,7 @@ pytesseract
 datasets
 statsmodels
 scikit-learn
+plotly
 
 # Processamento de linguagem natural (PLN)
 wordcloud
